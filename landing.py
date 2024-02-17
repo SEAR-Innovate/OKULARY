@@ -1,17 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-
-# with st.sidebar:
-#     selected = option_menu(
-#         menu_title="Main Menu",
-#         options= ["Home","Plagerism Checker","AI Class Monitoring","Teacher Community","AI Course Outcomes and Answer Checking","Cheating and Malpractice Detection","Student Performance Tracking","Class Performance Analytics"],
-#         default_index=0,
-#     )
-
-
-
-st.markdown("<h1 style='text-align: center;'>Miss Karen: Empowering Educators with Innovative Solutions</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>OKULARY: Empowering Educators with Innovative Solutions</h1>", unsafe_allow_html=True)
 
 selected = option_menu(
     menu_title=None,
@@ -26,14 +16,12 @@ selected = option_menu(
     }
 )
 
-
 st.markdown('''
-
-Welcome to Miss Karen, the ultimate teacher helper website designed to revolutionize the teaching experience. Our platform is built to address the diverse needs of educators by providing a comprehensive suite of resources, teaching methodologies, community support, AI-driven assessments, and performance analytics. 
+Welcome to OKULARY, the ultimate teacher helper website designed to revolutionize the teaching experience. Our platform is built to address the diverse needs of educators by providing a comprehensive suite of resources, teaching methodologies, community support, AI-driven assessments, and performance analytics. 
 
 ## **Problem Statement:**
 
-Teaching is a demanding profession that requires educators to juggle multiple responsibilities, from lesson planning and assessment to classroom management and student engagement. With the increasing demands of modern education, teachers often find themselves overwhelmed and in need of support. Miss Karen aims to bridge this gap by offering a one-stop solution that empowers educators with the tools and resources they need to excel in their profession.
+Teaching is a demanding profession that requires educators to juggle multiple responsibilities, from lesson planning and assessment to classroom management and student engagement. With the increasing demands of modern education, teachers often find themselves overwhelmed and in need of support. OKULARY aims to bridge this gap by offering a one-stop solution that empowers educators with the tools and resources they need to excel in their profession.
 
 ## **Aim:**
 
@@ -72,6 +60,6 @@ Through our platform, we aim to revolutionize the teaching experience by providi
 - [ ]  data analytics of class performance. (bh)
 - [ ]  AI class monitoring (attentiveness) 
 
-## **Get Started with Miss Karen Today!**
+## **Get Started with OKULARY Today!**
 
-Join Miss Karen today and take your teaching to the next level. Our platform is designed to empower educators with the tools and resources they need to excel in their profession. Whether you're a seasoned teacher looking for new teaching strategies or a new teacher seeking guidance, Miss Karen has something for everyone. Sign up now and start your journey towards becoming a more effective and successful educator.''')
+Join OKULARY today and take your teaching to the next level. Our platform is designed to empower educators with the tools and resources they need to excel in their profession. Whether you're a seasoned teacher looking for new teaching strategies or a new teacher seeking guidance, OKULARY has something for everyone. Sign up now and start your journey towards becoming a more effective and successful educator.''')
