@@ -2,7 +2,7 @@ import cv2
 import os
 
 def generate_dataset():
-    face_classifier = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+    face_classifier = cv2.CascadeClassifier("./Student_Attentiveness/haarcascade_frontalface_default.xml")
     cap = cv2.VideoCapture(2)
     id = 1
     img_id = 0

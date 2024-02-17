@@ -8,7 +8,7 @@ atnd = []
 # Train the face recognition model using the collected dataset
 def train_model():
     data_path = 'data'
-    face_classifier = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+    face_classifier = cv2.CascadeClassifier("./Student_Attentiveness/haarcascade_frontalface_default.xml")
     training_data = []
     labels = []
 
@@ -34,8 +34,8 @@ def train_model():
 
 # Implement the student attention monitoring system
 def monitor_attention():
-    face_classifier = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
-    eye_classifier = cv2.CascadeClassifier("haarcascade_eye.xml")
+    face_classifier = cv2.CascadeClassifier("./Student_Attentiveness/haarcascade_frontalface_default.xml")
+    eye_classifier = cv2.CascadeClassifier("./Student_Attentiveness/haarcascade_eye.xml")
     model = train_model()
     cap = cv2.VideoCapture(0)
 
