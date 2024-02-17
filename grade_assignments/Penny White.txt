@@ -1,0 +1,38 @@
+﻿1. What is data science?
+Data science is, like, using stuff like computers and math to find stuff out from a bunch of information. It's kinda like being a detective for data, I guess.
+
+
+2. What are the different types of data used in data science?
+There's, like, organized data and not organized data. Organized data is like stuff in tables, and not organized data is like pictures and stuff.
+
+
+3. Explain the difference between supervised and unsupervised learning.
+Supervised learning is when you teach a computer something using examples, like showing it pictures of cats and dogs. Unsupervised learning is when you let the computer figure stuff out on its own, like making friends with other computers.
+
+
+4. What are some common data cleaning techniques?
+Cleaning data is like fixing mistakes and stuff. You gotta get rid of the wrong information and make sure everything is neat and tidy.
+
+
+5. Describe the key steps involved in building a machine learning model.
+First, you gotta get the data and play around with it to see what's going on. Then you gotta clean it up and make it all nice and organized. Then you pick a fancy algorithm to teach the computer something, and you train it with the data. After that, you gotta see how well it works and fix it if it's not doing good.
+
+
+6. What is the difference between a data scientist and a data analyst?
+Data scientists are like the superheroes of data, they can do everything! Data analysts are more like the assistants, they help clean and organize the data.
+
+
+7. Explain the concept of bias in machine learning.
+Bias is like when the computer is unfair and favors certain things over others. It's not good, and we gotta try to avoid it.
+
+
+8. What are the ethical considerations involved in data science?
+Ethics are like the rules of the game. We gotta make sure we're using data responsibly and not hurting anyone.
+
+
+9. What are some emerging trends in data science?
+There's a lot of new stuff happening all the time, like deep learning, which is like super complex algorithms, and explainable AI, which is trying to make sure we understand how computers are making decisions.
+
+
+10. How can I get started with learning data science?
+There's a bunch of stuff online, like courses and videos, but it's all really hard and confusing. Maybe I should just stick to playing video games instead.

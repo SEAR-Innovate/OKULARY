@@ -1,11 +1,14 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
+import sys
+sys.path.append('./student_analysis')
+
 st.markdown("<h1 style='text-align: center;'>OKULARY: Empowering Educators with Innovative Solutions</h1>", unsafe_allow_html=True)
 
 selected = option_menu(
     menu_title=None,
-    options= ["Home","Plagerism Checker","AI Class Monitoring","Teacher Community","AI Course Outcomes and Answer Checking","Cheating and Malpractice Detection","Student Performance Tracking","Class Performance Analytics"],
+    options= ["Home","Plagerism Checker","AI Class Monitoring","Teacher Community","AI Course Outcomes and Answer Checking","Student Performance Tracking","Class Attendence"],
     default_index=0,
     orientation="horizontal",
     styles={
@@ -379,5 +382,170 @@ elif selected == 'Teacher Community':
     
     if __name__ == "__main__":
         main()
+elif selected == 'Student Performance Tracking':
+    import streamlit as st
+    import pandas as pd
+    import os
+    
+    # Assuming these are the functions you've defined
+    from main import (
+        default_dashboard_class, 
+        default_dashboard_student, 
+        plot_dashboard_class, 
+        plot_dashboard_student,
+    )
+    from download_report import create_pdf
+    
+    # List of student names
+    student_names = ["Brian Freeman", "Eric Wilson", "Charles Carpenter", "Joseph Lara", "Sara Rivera", "Penny White"]
+    
+    # List of available subjects
+    subjects = ['maths', 'computer science', 'reading', 'writing', 'physics']
+    
+    # Dictionary for options in each mode
+    student_default_options = {
+        "Plot Scores for the student": "Plot Scores for the student",
+        "Plot Individual Semester Progress(Line Plot)": "Plot Individual Semester Progress(Line Plot)",
+        "Plot Individual Semester Progress (Box Plot)": "Plot Individual Semester Progress (Box Plot)",
+        "Improvements and Decline of Marks": "Improvements and Decline of Marks",
+    }
+    
+    class_default_options = {
+        "Scores with respect to gender": "Scores with respect to gender",
+        "Impact of course completion on grades": "Impact of course completion on grades",
+        "Mean Scores": "Mean Scores",
+        "Median Scores": "Median Scores",
+        "Highest Scores": "Highest Scores",
+        "Lowest Scores": "Lowest Scores",
+    }
+    
+    # Streamlit app
+    def main():
+        st.title("Student Dashboards")
+        dashboard_type = st.radio("Choose Dashboard Type", ("Student", "Class"))
+    
+        if dashboard_type == "Student":
+            st.subheader("Student Dashboard")
+            selected_student = st.selectbox("Select Student", student_names)
+            dashboard_mode = st.radio("Dashboard Mode", ("Default", "Custom"))
+            
+            st.subheader("Download Student Report")
+            image_folder = './student_analysis/requested_plots'
+            pdf_bytes = None
+            output_file = None
+            
+            if st.button("Generate Report"):
+                if selected_student and image_folder:
+                    output_file = create_pdf(selected_student, image_folder)
+                    with open(output_file, "rb") as f:
+                        pdf_bytes = f.read()
+            if pdf_bytes is not None and output_file is not None:
+                st.download_button(label="Download Report", data=pdf_bytes, file_name=output_file, mime="application/pdf")
+                st.success("Report generated successfully!")
+    
+            if dashboard_mode == "Default":
+                default_dashboard_student(selected_student)
+            else:
+                selected_plots = st.multiselect("Select Plots", list(student_default_options.keys()))
+                plot_dashboard_student(selected_plots, selected_student, subjects)
+            
+            
+    
+        else:  # Class dashboard
+            st.subheader("Class Dashboard")
+            class_mode = st.radio("Dashboard Mode", ("Default", "Custom"))
+            subject = st.selectbox("Select Subject", subjects)
+    
+            if class_mode == "Default":
+                
+                default_dashboard_class(subject)
+            else:
+                selected_plots = st.multiselect("Select Plots", list(class_default_options.keys()))
+                plot_dashboard_class(selected_plots, subject)
+                
+        st.header("Requested Plots")
+        image_folder = "./student_analysis/requested_plots"
+        if os.path.exists(image_folder):
+            image_files = os.listdir(image_folder)
+            for image_file in image_files:
+                if image_file.endswith(('.png', '.jpg', '.jpeg')):
+                    image_path = os.path.join(image_folder, image_file)
+                    st.image(image_path, caption=image_file, use_column_width=True)
+        else:
+            st.write("Image folder not found.")
+    
+    if __name__ == "__main__":
+        main()
+
 elif selected == 'AI Course Outcomes and Answer Checking':
-    pass
+    import streamlit as st
+    from openai import OpenAI
+    import json
+    import os
+    
+    # Set up OpenAI client
+    client = OpenAI(api_key='Your API Key Here')
+    
+    # Function to read file contents
+    def read_file_contents(filename):
+        with open(filename, 'r') as f:
+            contents = f.read()
+        return contents
+    
+    # Function to generate GPT-3 response
+    def generate_gpt3_response(text1, text2):
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "You are a helpful assignment grading assistant. at the beginning of every user input, you will be provided with the answers the teachers want followed by ### indicating that the student answers have started. You shall judge the student answers on a priority basis out of the teacher's sample answers and  for a lower priority, add your own judgement for the correctness of each answer. Each Answer is worth 5 marks. Return only a json output in the following format {\"grades\":{question_number(integer):marks_allotted to the question(integer)},{\"2\":5}}, for example for the marks of first two questions you can output{\"grades\":{\"1\":4},{\"2\":5}} where the first element of the grades is the question number and the value is the marks allotted"},
+                {"role": "user", "content": 'Teacher Sample Answers: \n' + text1 + '\n' + '###' + '\n' + 'Student Answers: \n ' + text2},
+            ]
+        )
+        output = response.choices[0].message.content
+        return output
+    
+    # Function to convert JSON to answer
+    def json_to_answer(name, json_string):
+        data = json.loads(json_string)
+        questions = list(data['grades'].keys())
+        marks = list(data['grades'].values())
+        result = f'Name: {name}\n'
+        for i in range(len(questions)):
+            result += f'Question No. {i+1}\n'
+            result += f'Marks: {marks[i]}\n'
+        result += f'Total Marks: {sum(marks)}'
+        return result
+    
+    # Main function for Streamlit app
+    def main():
+        st.title("Assignment Grading Assistant")
+        st.write("Upload the teacher and student files in .txt format")
+    
+        # File upload
+        teacher_file = st.file_uploader("Upload Teacher File", type=['txt'])
+        student_file = st.file_uploader("Upload Student File", type=['txt'])
+    
+        if teacher_file and student_file:
+            # Get student name
+            student_name = os.path.splitext(os.path.basename(student_file.name))[0]
+    
+            # Grade button
+            if st.button("Grade"):
+                # Read file contents
+                teacher_text = teacher_file.read().decode('utf-8')
+                student_text = student_file.read().decode('utf-8')
+    
+                # Generate GPT-3 response
+                gpt_response = generate_gpt3_response(teacher_text, student_text)
+    
+                # Convert JSON to answer
+                answer = json_to_answer(student_name, gpt_response)
+    
+                # Display answer
+                st.subheader("Grading Result:")
+                st.text_area("Result", value=answer, height=400)
+    
+    # Run the app
+    if __name__ == "__main__":
+        main()
+    

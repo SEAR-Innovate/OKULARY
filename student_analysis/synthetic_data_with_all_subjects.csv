@@ -1,0 +1,1001 @@
+name,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,internal math marks,internal reading marks,internal writing marks,physics score,computer science score,internal physics marks,internal computer science marks,maths score,internal maths marks
+Aaron Owens,female,group B,bachelor's degree,standard,none,69,51,56,21,15,17,65,63,20,19,65,20
+Andrea Horne,female,group C,some college,standard,completed,48,68,78,14,20,23,59,47,18,14,84,25
+Joseph Lara,female,group B,master's degree,standard,none,38,65,93,11,20,28,68,69,20,21,32,10
+Mr. Victor Jackson MD,male,group A,associate's degree,free/reduced,none,47,68,54,14,20,16,42,56,13,17,55,16
+Alex Smith,male,group C,some college,standard,none,92,65,70,28,20,21,72,68,22,20,64,19
+Brian Freeman,female,group B,associate's degree,standard,none,40,50,67,12,15,20,81,45,24,14,32,10
+David Russo,female,group B,some college,standard,completed,74,67,69,22,20,21,63,80,19,24,64,19
+Adrian Harrell,male,group B,some college,free/reduced,none,60,55,88,18,16,26,68,60,20,18,88,26
+Yvonne Benitez,male,group D,high school,free/reduced,completed,53,80,78,16,24,23,86,52,26,16,74,22
+Ryan Taylor,female,group B,high school,free/reduced,none,88,48,84,26,14,25,74,62,22,19,57,17
+Gail Cooley,male,group C,associate's degree,standard,none,53,42,77,16,13,23,64,72,19,22,53,16
+Michael Willis,male,group D,associate's degree,standard,none,72,72,74,22,22,22,70,82,21,25,67,20
+Kathleen Perez DDS,female,group B,high school,standard,none,77,51,72,23,15,22,60,62,18,19,46,14
+Angela Smith DDS,male,group A,some college,standard,completed,58,63,76,17,19,23,53,45,16,14,78,23
+Sarah Gibson,female,group A,master's degree,standard,none,45,84,87,14,25,26,79,39,24,12,80,24
+Jennifer Allen,female,group C,some high school,standard,none,72,63,76,22,19,23,54,62,16,19,54,16
+Nathan Mason,male,group C,high school,standard,none,75,65,81,22,20,24,70,63,21,19,66,20
+Kristen Barnes,female,group B,some high school,free/reduced,none,60,65,66,18,20,20,68,66,20,20,66,20
+Brandon Acosta,male,group C,master's degree,free/reduced,completed,63,87,78,19,26,23,73,53,22,16,69,21
+Todd Flores,female,group C,associate's degree,free/reduced,none,75,51,64,22,15,19,56,66,17,20,92,28
+Samantha Hicks,male,group D,high school,standard,none,54,73,84,16,22,25,26,69,8,21,77,23
+Stephen Blanchard,female,group B,some college,free/reduced,completed,59,77,75,18,23,22,71,40,21,12,82,25
+Alyssa Wood,male,group D,some college,standard,none,45,73,83,14,22,25,77,93,23,28,49,15
+Tara Fowler,female,group C,some high school,standard,none,77,96,65,23,29,20,45,91,14,27,80,24
+Jeffrey Walters,male,group D,bachelor's degree,free/reduced,completed,94,88,56,28,26,17,65,69,20,21,95,28
+Eric Wilson,male,group A,master's degree,free/reduced,none,97,52,92,29,16,28,82,77,25,23,76,23
+Danielle Young,male,group B,some college,standard,none,73,94,41,22,28,12,88,59,26,18,94,28
+Raymond Manning,female,group C,bachelor's degree,standard,none,46,71,87,14,21,26,87,73,26,22,71,21
+Hunter Smith,male,group C,high school,standard,none,66,57,63,20,17,19,52,80,16,24,84,25
+Ariel Barr,female,group D,master's degree,standard,none,57,59,60,17,18,18,81,80,24,24,74,22
+James Green,female,group D,some college,standard,none,59,54,67,18,16,20,48,60,14,18,63,19
+Lori Anderson,female,group B,some college,standard,none,66,69,74,20,21,22,71,32,21,10,64,19
+Richard Johnson,female,group E,master's degree,free/reduced,none,71,67,41,21,20,12,48,77,14,23,64,19
+Melissa Salinas,male,group D,some college,standard,none,72,68,59,22,20,18,68,72,20,22,58,17
+Cassandra Salazar,male,group E,some college,standard,none,55,68,82,16,20,25,52,75,16,22,48,14
+Kristin Bailey,male,group E,associate's degree,standard,completed,53,57,78,16,17,23,57,66,17,20,52,16
+Monica Cortez,female,group D,associate's degree,standard,none,100,59,57,30,18,17,55,53,16,16,74,22
+Mark Taylor,female,group D,some high school,free/reduced,none,85,71,83,26,21,25,43,87,13,26,69,21
+Heather Sandoval,female,group D,associate's degree,free/reduced,completed,39,82,66,12,25,20,60,64,18,19,94,28
+Marisa Hayes,male,group B,associate's degree,free/reduced,none,79,90,79,24,27,24,85,74,26,22,67,20
+James Brooks,male,group C,associate's degree,free/reduced,none,73,64,48,22,19,14,71,74,21,22,64,19
+Bradley Ramirez,female,group C,associate's degree,standard,none,71,93,68,21,28,20,60,65,18,20,98,29
+Christopher Jones,female,group B,associate's degree,standard,none,50,68,73,15,20,22,46,84,14,25,77,23
+Brandon Mitchell,male,group B,some college,free/reduced,completed,46,41,41,14,12,12,69,76,21,23,90,27
+Andrew Travis,female,group E,associate's degree,free/reduced,none,51,83,56,15,25,17,81,80,24,24,90,27
+Penny White,male,group B,associate's degree,standard,none,66,42,67,20,13,20,69,68,21,20,76,23
+Kelsey Smith,female,group A,associate's degree,standard,completed,55,62,70,16,19,21,57,71,17,21,62,19
+Mrs. Victoria Allen,female,group C,high school,standard,none,75,71,57,22,21,17,71,41,21,12,58,17
+Susan Taylor,female,group D,associate's degree,free/reduced,completed,40,61,64,12,18,19,47,82,14,25,55,16
+Peter Charles,male,group C,high school,standard,completed,77,67,100,23,20,30,45,62,14,19,55,16
+Stephanie Collins,male,group E,some college,standard,none,76,74,98,23,22,29,82,42,25,13,83,25
+Joseph Ryan,male,group E,associate's degree,free/reduced,completed,83,98,83,25,29,25,84,78,25,23,78,23
+Margaret Eaton,male,group C,some college,standard,none,60,49,70,18,15,21,96,70,29,21,60,18
+Scott Newton,male,group D,high school,standard,none,97,64,75,29,19,22,72,60,22,18,41,12
+Trevor Johnson,female,group C,some high school,free/reduced,completed,58,65,82,17,20,25,84,76,25,23,84,25
+Tiffany Holt,female,group C,high school,free/reduced,none,39,81,74,12,24,22,55,61,16,18,77,23
+Mrs. Jessica King,female,group E,associate's degree,standard,completed,73,73,52,22,22,16,82,68,25,20,91,27
+Meagan Ramirez,male,group D,associate's degree,standard,none,51,88,63,15,26,19,99,79,30,24,57,17
+Mathew Anderson,male,group D,some college,standard,completed,36,87,63,11,26,19,77,58,23,17,79,24
+Stephanie Taylor,female,group C,some high school,free/reduced,none,73,38,60,22,11,18,82,57,25,17,53,16
+Amanda Pacheco,male,group E,bachelor's degree,free/reduced,completed,80,75,72,24,22,22,76,59,23,18,58,17
+Joshua Mcdaniel,male,group A,some high school,free/reduced,none,58,54,68,17,16,20,63,90,19,27,53,16
+Cassandra Joseph,male,group A,associate's degree,free/reduced,none,52,72,21,16,22,6,65,59,20,18,55,16
+Gabriel Howell,female,group C,associate's degree,standard,none,62,80,88,19,24,26,96,63,29,19,45,14
+Phyllis Zhang,female,group D,some high school,standard,none,85,73,69,26,22,21,83,82,25,25,75,22
+Ashley Bishop,male,group B,some high school,standard,none,89,65,59,27,20,18,60,67,18,20,69,21
+Kristy Duffy,male,group D,some high school,free/reduced,none,62,65,81,19,20,24,48,75,14,22,76,23
+Mark Schmidt,female,group C,some college,standard,none,63,43,71,19,13,21,73,56,22,17,81,24
+Kiara Atkins,male,group B,associate's degree,free/reduced,none,60,70,65,18,21,20,52,67,16,20,94,28
+John Nichols,female,group C,associate's degree,standard,none,59,76,64,18,23,19,83,88,25,26,90,27
+Megan Lowe,female,group D,some college,free/reduced,completed,66,93,62,20,28,19,57,64,17,19,84,25
+John Williams,male,group D,some college,standard,completed,57,53,66,17,16,20,70,83,21,25,78,23
+Meghan Robinson,female,group A,associate's degree,free/reduced,none,83,18,72,25,5,22,81,53,24,16,62,19
+Ryan Bruce,male,group C,some high school,free/reduced,none,71,55,73,21,16,22,52,38,16,11,60,18
+Lori Bryant,male,group C,some high school,standard,none,81,92,59,24,28,18,79,67,24,20,66,20
+Nancy Allen,male,group B,associate's degree,free/reduced,none,49,62,63,15,19,19,64,92,19,28,90,27
+Mario Roberts,male,group E,some high school,standard,none,62,66,74,19,20,22,50,52,15,16,49,15
+Elizabeth Owens,male,group A,bachelor's degree,standard,completed,74,71,56,22,21,17,63,63,19,19,53,16
+Madison Johnson,female,group D,some high school,standard,completed,75,70,40,22,21,12,54,97,16,29,67,20
+Rachael Chambers,female,group E,master's degree,standard,none,60,54,64,18,16,19,73,37,22,11,63,19
+John Brown,female,group B,associate's degree,standard,none,50,100,68,15,30,20,75,71,22,21,57,17
+Todd Cameron,male,group B,high school,free/reduced,none,68,74,67,20,22,20,68,76,20,23,66,20
+Susan Daniels,male,group A,some college,free/reduced,completed,95,59,66,28,18,20,57,60,17,18,46,14
+Kayla Knapp,male,group E,associate's degree,standard,none,42,61,81,13,18,24,59,70,18,21,63,19
+Diane Aguilar,male,group D,high school,free/reduced,none,57,45,79,17,14,24,91,88,27,26,59,18
+Phyllis Rice,female,group C,some college,standard,none,63,68,61,19,20,18,55,81,16,24,52,16
+Edward Garcia,female,group C,some college,free/reduced,none,63,61,59,19,18,18,59,92,18,28,75,22
+Ashley Lawrence,female,group D,associate's degree,standard,none,69,59,67,21,18,20,74,64,22,19,25,8
+Yvonne Wilson,female,group A,some college,standard,none,55,76,64,16,23,19,68,84,20,25,41,12
+Edwin Yang,female,group D,some high school,standard,none,80,63,61,24,19,18,78,82,23,25,73,22
+Michelle Haynes,female,group C,bachelor's degree,standard,none,50,54,70,15,16,21,59,65,18,20,62,19
+Holly Becker,male,group C,high school,free/reduced,none,62,48,74,19,14,22,72,80,22,24,42,13
+Andrew Leach,male,group C,high school,standard,none,73,78,54,22,23,16,71,74,21,22,69,21
+Sara Rivera,male,group C,associate's degree,free/reduced,completed,64,67,72,19,20,22,92,52,28,16,93,28
+Nancy Perez,female,group B,some college,standard,none,76,59,72,23,18,22,89,61,27,18,65,20
+Dr. Melissa Holden,male,group C,associate's degree,free/reduced,completed,73,70,72,22,21,22,62,68,19,20,57,17
+Brianna Smith,male,group B,some high school,standard,completed,80,88,65,24,26,20,66,74,20,22,67,20
+Katie Ortiz,female,group E,some college,standard,completed,34,68,63,10,20,19,61,77,18,23,66,20
+Matthew May,female,group D,some college,free/reduced,none,88,62,61,26,19,18,79,52,24,16,49,15
+Charles Rivera,female,group D,bachelor's degree,standard,none,66,62,74,20,19,22,47,73,14,22,68,20
+Melanie Rhodes,male,group B,some college,standard,none,57,69,58,17,21,17,73,90,22,27,47,14
+Tracy Collins,male,group D,bachelor's degree,standard,completed,29,65,79,9,20,24,65,58,20,17,64,19
+Douglas Mathis,female,group D,associate's degree,standard,none,64,86,81,19,26,24,82,54,25,16,47,14
+Samantha Velazquez,male,group B,high school,standard,completed,56,35,87,17,10,26,29,49,9,15,46,14
+Kevin Huffman,male,group C,some college,standard,completed,92,90,64,28,27,19,71,74,21,22,90,27
+Kelly Myers,female,group C,some college,standard,none,70,49,61,21,15,18,65,77,20,23,86,26
+Kathryn Stewart,female,group D,master's degree,standard,none,53,82,58,16,25,17,40,80,12,24,74,22
+Bradley Richardson,male,group E,associate's degree,standard,completed,70,80,81,21,24,24,91,57,27,17,69,21
+Deborah Carpenter,female,group B,associate's degree,free/reduced,none,73,84,88,22,25,26,69,88,21,26,78,23
+Matthew Horton,female,group B,some high school,standard,none,72,75,46,22,22,14,57,77,17,23,48,14
+Christina Ortega,female,group D,associate's degree,free/reduced,completed,70,51,81,21,15,24,64,38,19,11,97,29
+Wendy Miller,male,group C,high school,standard,none,60,100,59,18,30,18,74,48,22,14,80,24
+John King,male,group A,associate's degree,standard,none,85,84,71,26,25,21,58,65,17,20,78,23
+Robert Montgomery,female,group D,some college,standard,none,80,85,47,24,26,14,91,58,27,17,55,16
+Charles Carpenter,female,group E,bachelor's degree,standard,completed,51,65,100,15,20,30,66,56,20,17,51,15
+John Todd,male,group C,high school,standard,none,50,89,84,15,27,25,76,73,23,22,64,19
+Heather Simmons,female,group B,bachelor's degree,free/reduced,none,76,57,44,23,17,13,46,66,14,20,70,21
+Kimberly Bentley,female,group D,bachelor's degree,standard,none,64,48,83,19,14,25,71,58,21,17,57,17
+Kaitlyn Thomas,female,group D,some high school,standard,none,68,94,68,20,28,20,52,70,16,21,44,13
+Carlos Mcdonald,female,group C,some college,standard,none,92,77,69,28,23,21,50,52,15,16,84,25
+Philip Wright,female,group C,bachelor's degree,standard,completed,80,68,47,24,20,14,79,58,24,17,53,16
+Tiffany Butler,male,group B,associate's degree,standard,completed,85,55,40,26,16,12,63,75,19,22,43,13
+Michael Castillo,female,group C,some college,standard,completed,64,72,71,19,22,21,79,87,24,26,38,11
+Mr. Robert Burns,male,group D,high school,free/reduced,none,56,76,55,17,23,16,51,75,15,22,63,19
+Michele Taylor,male,group E,some college,standard,none,74,39,55,22,12,16,76,59,23,18,40,12
+Nicholas Garza,female,group B,high school,standard,none,49,90,69,15,27,21,59,75,18,22,77,23
+Chloe Bryant,male,group B,some high school,standard,none,59,62,75,18,19,22,80,47,24,14,42,13
+Joseph Sandoval,male,group D,some college,standard,completed,81,69,96,24,21,29,63,41,19,12,67,20
+Cassandra Kirk,male,group D,master's degree,standard,none,80,63,29,24,19,9,84,55,25,16,80,24
+Lauren Sullivan,female,group A,bachelor's degree,standard,none,76,50,42,23,15,13,61,78,18,23,64,19
+Jay Tapia,male,group D,master's degree,standard,none,66,85,65,20,26,20,61,66,18,20,75,22
+Michelle Salazar,male,group C,some high school,free/reduced,completed,58,100,56,17,30,17,56,83,17,25,61,18
+Thomas Reid,male,group E,some college,free/reduced,completed,87,67,83,26,20,25,70,53,21,16,38,11
+Kayla Rogers,female,group C,some college,standard,completed,54,76,77,16,23,23,70,66,21,20,65,20
+Veronica Chavez,male,group D,bachelor's degree,free/reduced,completed,71,59,95,21,18,28,85,74,26,22,70,21
+Linda Sims,male,group C,bachelor's degree,standard,none,64,85,56,19,26,17,79,65,24,20,88,26
+Randy Walker,male,group B,some high school,standard,completed,57,85,63,17,26,19,60,81,18,24,67,20
+Amy Edwards,male,group E,high school,standard,none,79,63,77,24,19,23,60,81,18,24,67,20
+Kimberly Huerta,female,group C,associate's degree,standard,none,69,56,68,21,17,20,78,85,23,26,81,24
+Dwayne Martin,male,group D,some college,standard,completed,74,82,82,22,25,25,89,57,27,17,75,22
+Maurice Daniels,female,group D,some high school,standard,none,63,59,72,19,18,22,87,52,26,16,75,22
+Laurie White,female,group C,some college,free/reduced,none,78,37,54,23,11,16,87,62,26,19,94,28
+Deanna Jacobs,female,group E,some college,free/reduced,completed,70,75,91,21,22,27,89,60,27,18,75,22
+Linda Kerr,male,group A,high school,standard,none,68,87,63,20,26,19,76,46,23,14,78,23
+Allen Ward,male,group D,some college,standard,none,64,86,65,19,26,20,77,63,23,19,86,26
+Monica Sims,female,group C,some college,free/reduced,none,64,90,85,19,27,26,64,69,19,21,70,21
+David Mcclure,male,group B,some high school,standard,none,67,62,79,20,19,24,69,62,21,19,69,21
+Amber King,male,group C,associate's degree,free/reduced,none,65,78,73,20,23,22,100,75,30,22,36,11
+Jennifer Holland,female,group D,bachelor's degree,standard,completed,77,84,70,23,25,21,78,71,23,21,67,20
+Tony Lee,male,group E,associate's degree,free/reduced,completed,54,58,61,16,17,18,55,77,16,23,100,30
+Patricia Nelson,male,group A,some high school,standard,completed,66,69,73,20,21,22,78,55,23,16,57,17
+Emily Garcia,male,group A,bachelor's degree,standard,none,72,71,100,22,21,30,58,66,17,20,85,26
+Adrienne Hughes,female,group B,associate's degree,standard,completed,65,75,52,20,22,16,30,85,9,26,53,16
+Martin Thomas,male,group D,bachelor's degree,standard,none,41,68,70,12,20,21,79,73,24,22,71,21
+Brandon Rollins,male,group D,some high school,standard,none,69,80,47,21,24,14,81,80,24,24,49,15
+Mrs. Laurie Gomez,female,group C,some college,standard,completed,73,73,38,22,22,11,62,61,19,18,72,22
+Amy Collier,female,group E,high school,free/reduced,completed,58,66,92,17,20,28,82,44,25,13,55,16
+Kevin Stevenson,male,group B,some college,free/reduced,none,53,71,76,16,21,23,60,57,18,17,67,20
+Melinda Atkinson MD,female,group B,associate's degree,standard,completed,61,65,94,18,20,28,64,51,19,15,45,14
+Dakota Brown,male,group D,associate's degree,free/reduced,none,90,77,92,27,23,28,43,70,13,21,72,22
+Jon Horton,male,group B,associate's degree,free/reduced,completed,66,61,83,20,18,25,60,84,18,25,79,24
+Jacqueline Stewart,female,group E,some college,free/reduced,completed,69,49,67,21,15,20,86,54,26,16,82,25
+Andres Cruz,male,group B,master's degree,free/reduced,none,55,65,64,16,20,19,78,62,23,19,85,26
+Joseph Cross,male,group C,high school,standard,none,100,48,85,30,14,26,66,94,20,28,60,18
+Amber Duran,female,group E,master's degree,standard,none,50,69,96,15,21,29,55,81,16,24,53,16
+Dr. Francis Reynolds,female,group C,bachelor's degree,standard,completed,78,64,86,23,19,26,65,69,20,21,71,21
+Kevin Miller,male,group C,high school,free/reduced,completed,29,74,43,9,22,13,73,73,22,22,69,21
+Adrian Crosby,female,group B,master's degree,free/reduced,completed,57,82,64,17,25,19,79,82,24,25,51,15
+Benjamin Hamilton,female,group B,high school,standard,completed,61,51,80,18,15,24,78,35,23,10,56,17
+Alexander Frazier,female,group C,some college,free/reduced,completed,69,59,64,21,18,19,74,82,22,25,66,20
+Timothy Howard,male,group A,high school,standard,completed,66,71,63,20,21,19,62,60,19,18,37,11
+Todd Smith,male,group E,some high school,standard,none,95,82,73,28,25,22,80,69,24,21,60,18
+Wayne Nguyen,female,group D,some college,standard,none,72,84,74,22,25,22,90,70,27,21,45,14
+Dana Nelson,female,group C,associate's degree,standard,none,71,85,51,21,26,15,66,57,20,17,67,20
+Chelsea Carter,female,group C,bachelor's degree,free/reduced,completed,71,61,38,21,18,11,72,100,22,30,66,20
+Deanna Nash,female,group C,master's degree,standard,completed,84,63,51,25,19,15,85,61,26,18,61,18
+Wendy Harrison,female,group B,high school,free/reduced,completed,43,70,85,13,21,26,90,26,27,8,45,14
+Dawn Gibson,female,group C,associate's degree,standard,completed,64,88,77,19,26,23,91,45,27,14,57,17
+Amanda Stokes,female,group B,master's degree,free/reduced,completed,70,46,53,21,14,16,70,54,21,16,53,16
+Matthew Wheeler,female,group D,some high school,standard,completed,63,65,93,19,20,28,58,58,17,17,39,12
+Susan Yates,male,group C,master's degree,free/reduced,completed,32,70,73,10,21,22,44,52,13,16,91,27
+David Bradford,female,group C,some college,free/reduced,none,53,78,61,16,23,18,66,58,20,17,72,22
+Wesley Kim,female,group E,high school,standard,none,84,59,62,25,18,19,59,51,18,15,78,23
+David Kelly,female,group D,associate's degree,standard,none,52,43,60,16,13,18,75,49,22,15,48,14
+Daniel Schmitt,male,group C,some high school,free/reduced,completed,90,79,53,27,24,16,84,71,25,21,72,22
+Tracy Day,male,group C,associate's degree,free/reduced,completed,63,62,80,19,19,24,73,69,22,21,59,18
+Kari Gonzalez,male,group E,high school,standard,none,65,71,55,20,21,16,49,91,15,27,79,24
+Sabrina Thomas,male,group D,some high school,standard,completed,75,81,85,22,24,26,82,53,25,16,99,30
+Kyle Mason,male,group B,some high school,free/reduced,none,89,97,60,27,29,18,79,56,24,17,62,19
+Paul Matthews,female,group C,bachelor's degree,standard,none,46,64,100,14,19,30,78,65,23,20,55,16
+Rachel Davis,female,group E,associate's degree,standard,none,100,64,96,30,19,29,56,55,17,16,65,20
+Timothy Bond,male,group D,some college,standard,completed,98,73,27,29,22,8,57,73,17,22,71,21
+Amber Green,female,group B,some high school,standard,none,55,65,91,16,20,27,79,55,24,16,60,18
+Brittany Hayes,male,group D,some college,standard,completed,85,71,86,26,21,26,77,59,23,18,70,21
+Eric Manning,female,group C,master's degree,standard,completed,47,51,48,14,15,14,59,73,18,22,64,19
+Dr. Amy Taylor,male,group D,associate's degree,standard,none,55,77,82,16,23,25,67,60,20,18,59,18
+Thomas Anderson,male,group C,some high school,free/reduced,completed,71,97,60,21,29,18,68,83,20,25,74,22
+Leslie Jackson,male,group E,high school,free/reduced,none,100,75,57,30,22,17,53,64,16,19,54,16
+Christopher Evans,female,group B,some college,free/reduced,none,53,85,75,16,26,22,65,78,20,23,70,21
+Zachary Marshall,female,group B,bachelor's degree,free/reduced,none,92,70,50,28,21,15,50,74,15,22,65,20
+Nichole Wilson,female,group C,associate's degree,standard,completed,81,61,93,24,18,28,94,55,28,16,74,22
+Gavin Kim,female,group D,some college,free/reduced,none,89,89,48,27,27,14,58,68,17,20,89,27
+Matthew Mullen,male,group C,associate's degree,standard,none,56,80,82,17,24,25,72,86,22,26,66,20
+Todd Carter,female,group B,associate's degree,standard,none,56,71,38,17,21,11,54,52,16,16,66,20
+Robert Armstrong,male,group C,some college,standard,none,70,50,52,21,15,16,49,74,15,22,36,11
+Monica Williams,male,group D,some high school,standard,completed,53,100,59,16,30,18,85,72,26,22,70,21
+Monica Fernandez,male,group E,bachelor's degree,standard,none,62,91,98,19,27,29,88,73,26,22,67,20
+Jerry Wu,male,group E,high school,standard,completed,82,69,54,25,21,16,65,78,20,23,67,20
+Kristina Jones,female,group B,some college,free/reduced,none,74,100,65,22,30,20,61,54,18,16,87,26
+John Flores,female,group B,some college,free/reduced,none,57,42,58,17,13,17,76,95,23,28,69,21
+Michael Weaver,male,group D,some high school,free/reduced,completed,84,72,81,25,22,24,77,73,23,22,28,8
+Tim Wright,male,group C,some college,free/reduced,none,54,52,64,16,16,19,72,62,22,19,77,23
+Tracie Nelson,female,group C,high school,free/reduced,none,74,49,40,22,15,12,76,91,23,27,56,17
+Dustin Hubbard,male,group C,associate's degree,free/reduced,completed,69,73,54,21,22,16,67,57,20,17,68,20
+Christina Lambert,male,group E,high school,standard,completed,74,85,60,22,26,18,63,72,19,22,85,26
+Dustin Ross,male,group B,some high school,standard,completed,100,67,80,30,20,24,53,63,16,19,60,18
+James Hicks,female,group E,associate's degree,free/reduced,completed,54,71,75,16,21,22,60,73,18,22,73,22
+Kenneth Bates,female,group C,high school,free/reduced,none,69,86,60,21,26,18,73,63,22,19,61,18
+Eugene Rice,male,group B,high school,free/reduced,none,68,73,39,20,22,12,68,74,20,22,69,21
+Pamela Garcia,male,group B,some high school,standard,completed,67,73,83,20,22,25,63,63,19,19,60,18
+Veronica Wheeler,female,group D,high school,standard,completed,61,80,55,18,24,16,86,57,26,17,59,18
+Jason Hernandez,male,group B,associate's degree,standard,none,70,50,85,21,15,26,60,58,18,17,74,22
+Tracey Davis,female,group C,some high school,free/reduced,none,74,60,94,22,18,28,56,86,17,26,79,24
+Nathaniel Rodriguez,male,group D,some high school,standard,none,76,64,78,23,19,23,81,71,24,21,61,18
+James Taylor,female,group B,associate's degree,standard,completed,77,55,100,23,16,30,72,60,22,18,48,14
+Tyler Williams,female,group E,master's degree,free/reduced,none,76,77,36,23,23,11,67,71,20,21,72,22
+Christopher Martinez,female,group C,some college,standard,none,67,75,61,20,22,18,60,72,18,22,57,17
+Robert Perez,male,group D,high school,standard,none,81,87,74,24,26,22,97,85,29,26,58,17
+Jay Owen,male,group A,some high school,free/reduced,none,54,85,45,16,26,14,43,49,13,15,62,19
+Christina Wiley,female,group C,some college,standard,completed,90,57,70,27,17,21,74,42,22,13,64,19
+Angela Hunter,male,group D,some college,standard,none,78,63,82,23,19,25,70,48,21,14,63,19
+John Gonzalez,male,group C,associate's degree,standard,none,52,40,66,16,12,20,48,81,14,24,34,10
+Mary Watts,female,group B,bachelor's degree,standard,none,96,74,71,29,22,21,78,65,23,20,79,24
+Elijah Fernandez,male,group E,some high school,standard,none,73,60,64,22,18,19,53,70,16,21,60,18
+Eric Jones,male,group C,bachelor's degree,standard,completed,72,69,41,22,21,12,71,53,21,16,51,15
+Diana Cox,male,group D,associate's degree,standard,none,68,78,54,20,23,16,65,78,20,23,59,18
+April Watkins,male,group D,bachelor's degree,free/reduced,none,64,86,81,19,26,24,75,45,22,14,88,26
+Christie Reese,female,group D,some high school,standard,completed,73,86,55,22,26,16,78,67,23,20,46,14
+Jeremy Martinez,male,group B,some college,standard,none,21,77,53,6,23,16,64,70,19,21,49,15
+Joseph Harris,male,group C,associate's degree,standard,none,78,61,70,23,18,21,50,73,15,22,71,21
+Angela Benitez,male,group D,high school,free/reduced,completed,69,79,46,21,24,14,71,56,21,17,79,24
+Rebecca Johnson,female,group E,bachelor's degree,standard,none,80,85,56,24,26,17,50,61,15,18,59,18
+Joseph Boyd,female,group D,high school,standard,none,53,86,77,16,26,23,81,52,24,16,66,20
+Michael Bautista,male,group E,some college,standard,none,100,60,61,30,18,18,56,62,17,19,82,25
+Devin Wood,male,group D,some high school,standard,none,51,66,72,15,20,22,84,57,25,17,50,15
+Robert Munoz,male,group C,associate's degree,standard,none,40,79,68,12,24,20,54,48,16,14,90,27
+Lisa Brown,male,group E,associate's degree,standard,none,84,84,58,25,25,17,83,84,25,25,76,23
+Mrs. Sharon Harris MD,female,group B,high school,standard,completed,54,90,60,16,27,18,82,82,25,25,66,20
+Sandra Barrera PhD,female,group B,high school,standard,none,64,66,71,19,20,21,75,62,22,19,65,20
+Caroline Myers,male,group C,high school,standard,none,65,65,79,20,20,24,84,50,25,15,68,20
+Elizabeth Morris,male,group A,some high school,standard,completed,58,50,87,17,15,26,67,36,20,11,66,20
+Lisa Craig,female,group D,some college,free/reduced,none,60,82,61,18,25,18,77,75,23,22,93,28
+Daniel Lynch,female,group B,some high school,standard,completed,60,69,49,18,21,15,65,73,20,22,81,24
+Dustin Harris,male,group D,master's degree,standard,none,80,73,82,24,22,25,58,27,17,8,67,20
+Kara Vasquez,male,group D,high school,standard,none,46,55,54,14,16,16,70,73,21,22,42,13
+Denise Jones,female,group E,some college,standard,none,70,81,61,21,24,18,92,89,28,27,67,20
+John Evans,female,group C,associate's degree,free/reduced,none,70,69,64,21,21,19,74,70,22,21,100,30
+Christine Kramer,male,group C,associate's degree,standard,completed,40,67,67,12,20,20,59,52,18,16,32,10
+Peter Miller,female,group B,some college,standard,none,27,65,58,8,20,17,54,57,16,17,45,14
+Julia Coleman,female,group C,master's degree,free/reduced,completed,69,84,91,21,25,27,87,30,26,9,38,11
+Robert Wilson,female,group C,some high school,free/reduced,completed,67,75,59,20,22,18,60,40,18,12,79,24
+Michael Wheeler,male,group C,some college,standard,completed,79,78,56,24,23,17,97,53,29,16,73,22
+Nathan Baxter,female,group C,some high school,free/reduced,none,58,99,95,17,30,28,80,76,24,23,81,24
+Bradley Reynolds,female,group E,high school,standard,none,74,57,52,22,17,16,70,60,21,18,69,21
+Thomas Gonzales,male,group D,high school,standard,none,57,71,83,17,21,25,52,50,16,15,70,21
+Jeffrey Mcintyre,male,group D,some high school,free/reduced,none,59,74,53,18,22,16,64,75,19,22,70,21
+Christopher Wilson,female,group C,bachelor's degree,standard,none,52,33,75,16,10,22,70,59,21,18,76,23
+Andrew Wells,female,group D,high school,standard,none,63,80,59,19,24,18,65,84,20,25,58,17
+Randy Ross,female,group D,associate's degree,standard,completed,63,87,67,19,26,20,82,96,25,29,45,14
+Raymond Soto,female,group E,some college,free/reduced,none,47,54,78,14,16,23,61,36,18,11,50,15
+Kevin Davis,male,group C,bachelor's degree,standard,none,60,59,77,18,18,23,64,76,19,23,67,20
+Andrea Rasmussen,male,group C,some college,standard,none,64,56,67,19,17,20,67,72,20,22,48,14
+Christopher Howard,female,group D,associate's degree,free/reduced,none,45,80,61,14,24,18,61,100,18,30,51,15
+Sharon Ferguson,female,group D,some college,standard,none,66,68,44,20,20,13,51,73,15,22,74,22
+Christopher Mckinney,male,group B,some college,standard,completed,65,51,37,20,15,11,53,84,16,25,91,27
+Linda Duke,male,group C,bachelor's degree,standard,none,67,52,69,20,16,21,68,100,20,30,88,26
+Paul Peterson,female,group C,some high school,standard,completed,58,72,73,17,22,22,100,52,30,16,69,21
+Douglas Gallegos,female,group E,high school,standard,completed,63,100,89,19,30,27,65,47,20,14,78,23
+Tammy Johnston,female,group C,some high school,free/reduced,none,79,75,62,24,22,19,68,58,20,17,65,20
+Holly Webb,male,group B,bachelor's degree,free/reduced,none,69,85,48,21,26,14,69,89,21,27,71,21
+Ashley Johnson,male,group D,high school,standard,none,82,47,64,25,14,19,73,59,22,18,74,22
+Madison Hughes,male,group D,high school,standard,none,57,83,68,17,25,20,51,43,15,13,72,22
+Stefanie Allen,female,group D,bachelor's degree,free/reduced,none,34,63,65,10,19,20,76,88,23,26,63,19
+Brian Zimmerman,female,group D,some college,free/reduced,completed,56,73,55,17,22,16,86,68,26,20,72,22
+Justin Rivera,female,group B,some high school,standard,none,78,71,52,23,21,16,29,77,9,23,85,26
+Patricia Malone,male,group B,associate's degree,standard,completed,61,68,52,18,20,16,64,46,19,14,57,17
+Lindsay Walker,male,group E,associate's degree,standard,completed,83,80,69,25,24,21,68,42,20,13,45,14
+Derek George,female,group B,some high school,standard,none,89,75,78,27,22,23,55,69,16,21,58,17
+Matthew Smith,male,group B,bachelor's degree,free/reduced,none,39,77,52,12,23,16,66,59,20,18,65,20
+Russell York,male,group E,some high school,standard,completed,70,73,75,21,22,22,73,65,22,20,52,16
+Patrick Lee MD,male,group C,associate's degree,standard,none,50,62,95,15,19,28,64,48,19,14,57,17
+Jonathan Bailey,male,group D,some high school,standard,none,82,54,67,25,16,20,47,86,14,26,85,26
+Tiffany Jones,male,group C,some high school,standard,completed,58,57,54,17,17,16,59,63,18,19,83,25
+Ryan Davis,female,group E,bachelor's degree,standard,none,41,53,72,12,16,22,65,62,20,19,100,30
+Rachel White,male,group D,high school,free/reduced,completed,76,61,42,23,18,13,100,79,30,24,62,19
+Dr. Kenneth Rivera,male,group B,associate's degree,free/reduced,none,70,67,60,21,20,18,48,48,14,14,54,16
+Lauren Mora,male,group A,some high school,standard,completed,64,87,41,19,26,12,89,78,27,23,38,11
+Andre Lawson,male,group E,associate's degree,standard,completed,74,61,58,22,18,17,74,68,22,20,31,9
+John Palmer,male,group C,high school,free/reduced,completed,50,76,75,15,23,22,59,75,18,22,80,24
+Jose Hernandez,male,group D,associate's degree,free/reduced,none,68,42,75,20,13,22,78,67,23,20,65,20
+Sharon Fields,male,group A,some college,free/reduced,completed,58,68,92,17,20,28,58,82,17,25,63,19
+Albert Morgan,male,group D,some high school,free/reduced,none,100,59,74,30,18,22,73,63,22,19,80,24
+Darlene Gonzalez,female,group C,associate's degree,standard,completed,66,78,59,20,23,18,77,74,23,22,50,15
+Kristina Gonzalez,male,group B,associate's degree,standard,none,89,83,56,27,25,17,69,73,21,22,63,19
+Dennis Brooks,female,group C,associate's degree,standard,completed,80,64,100,24,19,30,83,57,25,17,91,27
+Patricia Edwards,male,group A,some college,standard,none,54,80,79,16,24,24,74,47,22,14,71,21
+Robert Chambers,male,group E,some college,standard,completed,50,60,50,15,18,15,57,61,17,18,65,20
+Ryan Martin,male,group C,some high school,standard,none,56,81,66,17,24,20,60,80,18,24,38,11
+Jonathan Jennings,female,group B,associate's degree,free/reduced,none,39,76,56,12,23,17,69,71,21,21,74,22
+Shane Morrison,female,group D,high school,free/reduced,none,65,71,99,20,21,30,79,76,24,23,95,28
+Sherri Romero,female,group B,associate's degree,standard,none,61,74,63,18,22,19,56,78,17,23,64,19
+Erin Hart,male,group B,bachelor's degree,standard,none,77,58,53,23,17,16,55,91,16,27,80,24
+Dominique Jackson,male,group D,bachelor's degree,standard,completed,79,59,80,24,18,24,64,68,19,20,45,14
+Barbara White,female,group C,associate's degree,free/reduced,completed,54,77,62,16,23,19,77,100,23,30,96,29
+Keith Chavez,female,group C,bachelor's degree,standard,completed,51,74,65,15,22,20,47,75,14,22,43,13
+Keith Mcintosh,male,group C,high school,standard,none,66,50,62,20,15,19,40,100,12,30,63,19
+Nicole Jones,female,group D,master's degree,standard,completed,73,88,53,22,26,16,62,85,19,26,87,26
+Mike Ford,male,group C,associate's degree,standard,none,35,95,62,10,28,19,80,41,24,12,43,13
+Kathleen James,male,group B,bachelor's degree,standard,none,39,74,64,12,22,19,35,89,10,27,52,16
+Darrell Irwin,female,group D,associate's degree,free/reduced,none,79,66,64,24,20,19,71,57,21,17,67,20
+Dr. Monica Ewing,female,group C,high school,free/reduced,completed,74,95,72,22,28,22,74,51,22,15,54,16
+Kevin Roberts,female,group E,high school,standard,none,65,77,80,20,23,24,65,61,20,18,50,15
+Jennifer Johnson,female,group C,some college,standard,none,60,87,53,18,26,16,64,64,19,19,71,21
+Adam Yoder,female,group C,some high school,free/reduced,none,40,92,48,12,28,14,70,52,21,16,50,15
+Julie Rangel,female,group C,high school,free/reduced,none,65,87,29,20,26,9,76,45,23,14,78,23
+Kevin Ballard,female,group C,some college,standard,none,54,80,39,16,24,12,61,81,18,24,41,12
+Jason Villanueva,male,group C,some college,standard,none,84,80,62,25,24,19,43,86,13,26,80,24
+Isaac Myers,male,group A,some college,free/reduced,none,73,70,63,22,21,19,63,53,19,16,37,11
+Linda Rodriguez,male,group C,associate's degree,standard,completed,61,77,80,18,23,24,56,85,17,26,55,16
+Brandon Crosby,female,group B,some high school,standard,none,83,74,67,25,22,20,59,37,18,11,62,19
+Sandra Reid,male,group C,high school,standard,none,70,100,65,21,30,20,62,60,19,18,59,18
+Ricardo Acevedo,male,group C,associate's degree,standard,none,70,74,55,21,22,16,64,74,19,22,72,22
+Michaela Jones,male,group E,associate's degree,standard,completed,90,48,48,27,14,14,69,86,21,26,80,24
+Christopher Burns,male,group B,associate's degree,standard,none,58,89,70,17,27,21,78,55,23,16,26,8
+Amy Price,female,group C,bachelor's degree,standard,none,57,84,98,17,25,29,61,46,18,14,79,24
+Jennifer Murray,female,group B,some college,free/reduced,none,41,82,34,12,25,10,51,73,15,22,71,21
+Melinda Irwin,male,group D,some high school,standard,completed,48,65,83,14,20,25,37,83,11,25,56,17
+Krystal Sosa,male,group C,associate's degree,standard,none,85,61,51,26,18,15,63,77,19,23,76,23
+Eric Robertson,female,group B,some high school,free/reduced,none,71,67,69,21,20,21,75,82,22,25,77,23
+Lisa Mendoza,female,group D,some high school,free/reduced,completed,75,60,77,22,18,23,36,51,11,15,90,27
+Amber Brown,male,group C,high school,free/reduced,none,72,71,50,22,21,15,54,80,16,24,89,27
+Angela Waters,female,group C,high school,standard,none,83,77,52,25,23,16,85,58,26,17,40,12
+Jonathan Mercado,female,group B,high school,standard,completed,66,82,48,20,25,14,88,68,26,20,48,14
+Bryan Hernandez,male,group D,associate's degree,standard,completed,61,83,61,18,25,18,65,86,20,26,64,19
+John Andrews,male,group D,some college,standard,none,83,58,49,25,17,15,100,81,30,24,58,17
+Jay Blake,female,group C,high school,standard,none,59,62,44,18,19,13,71,56,21,17,30,9
+Adrienne Johnson,male,group B,some college,standard,none,79,58,65,24,17,20,50,79,15,24,72,22
+Christine Obrien,female,group C,bachelor's degree,standard,completed,59,72,73,18,22,22,93,81,28,24,57,17
+Kyle Mendez,male,group D,high school,free/reduced,none,55,49,95,16,15,28,68,66,20,20,100,30
+Tracy Parker,male,group E,associate's degree,standard,none,78,62,98,23,19,29,100,67,30,20,67,20
+Katelyn Chase,female,group B,bachelor's degree,standard,none,52,73,93,16,22,28,79,59,24,18,74,22
+Andre Wheeler,male,group E,some college,standard,none,96,80,80,29,24,24,91,82,27,25,82,25
+Angela Tran,female,group C,some college,standard,completed,60,63,79,18,19,24,71,69,21,21,60,18
+Teresa Durham,female,group C,associate's degree,standard,none,86,90,74,26,27,22,64,73,19,22,69,21
+Joshua Martin,female,group C,some college,standard,none,77,89,47,23,27,14,66,66,20,20,60,18
+Marcus Coffey,female,group B,bachelor's degree,standard,none,46,72,42,14,22,13,76,62,23,19,67,20
+Cathy Salazar,male,group A,associate's degree,standard,none,52,73,79,16,22,24,59,61,18,18,69,21
+Veronica Howell,female,group C,some college,free/reduced,completed,91,45,60,27,14,18,48,87,14,26,100,30
+Derek Schmitt,male,group D,some college,free/reduced,none,48,81,93,14,24,28,90,56,27,17,87,26
+Paul Riley,female,group D,some college,standard,none,72,60,61,22,18,18,79,91,24,27,58,17
+Darin Espinoza,female,group B,high school,standard,none,74,80,53,22,24,16,75,61,22,18,69,21
+John Welch,male,group B,some high school,standard,completed,84,67,80,25,20,24,56,75,17,22,90,27
+Lisa Chavez,female,group C,some college,standard,none,53,65,83,16,20,25,46,76,14,23,53,16
+Diana Jordan,female,group D,some high school,free/reduced,none,68,64,58,20,19,17,97,50,29,15,73,22
+Jessica Small,male,group C,some college,standard,none,55,65,74,16,20,22,63,66,19,20,40,12
+Brandon Steele,male,group A,bachelor's degree,free/reduced,completed,71,77,98,21,23,29,66,57,20,17,57,17
+Katherine Wise,male,group C,high school,standard,completed,62,85,69,19,26,21,50,66,15,20,37,11
+Lisa Lopez,male,group C,bachelor's degree,free/reduced,none,46,70,69,14,21,21,90,39,27,12,90,27
+Johnny Gomez,female,group A,some high school,free/reduced,none,60,91,87,18,27,26,78,63,23,19,91,27
+Tracy Dixon,female,group D,some high school,standard,none,99,90,59,30,27,18,60,60,18,18,68,20
+Howard Rich,male,group E,some college,standard,none,68,63,81,20,19,24,83,57,25,17,57,17
+Kenneth Lopez,female,group C,some college,free/reduced,completed,52,92,57,16,28,17,71,36,21,11,66,20
+Heather Elliott,male,group D,some high school,standard,none,81,60,45,24,18,14,56,69,17,21,50,15
+Kelly Wade,female,group D,some college,standard,completed,94,67,74,28,20,22,89,71,27,21,94,28
+Mr. Juan Roberts,female,group D,bachelor's degree,standard,none,66,62,82,20,19,25,47,84,14,25,65,20
+Chris Singh,male,group E,associate's degree,free/reduced,none,66,61,70,20,18,21,63,59,19,18,64,19
+Ms. Lisa Rodriguez,female,group D,some high school,standard,none,61,77,82,18,23,25,82,73,25,22,85,26
+Rachael Powell,female,group D,master's degree,free/reduced,completed,66,71,71,20,21,21,61,52,18,16,80,24
+Nicole Sanders,female,group A,some high school,standard,none,76,64,80,23,19,24,87,68,26,20,56,17
+Megan Santos,male,group A,bachelor's degree,standard,none,57,92,100,17,28,30,82,43,25,13,77,23
+Adam Davis,female,group B,associate's degree,standard,none,68,47,61,20,14,18,76,49,23,15,65,20
+Laura Scott,male,group C,associate's degree,standard,completed,74,69,87,22,21,26,71,86,21,26,74,22
+Carlos Ramirez,male,group C,master's degree,free/reduced,none,79,58,80,24,17,24,57,75,17,22,67,20
+Troy Evans,female,group E,some high school,free/reduced,none,63,57,78,19,17,23,69,60,21,18,74,22
+April Davenport,female,group A,some high school,free/reduced,none,47,56,91,14,17,27,88,55,26,16,81,24
+Tyler Horton,female,group E,some college,standard,none,63,56,77,19,17,23,68,64,20,19,77,23
+Raymond Strong,female,group E,bachelor's degree,standard,none,57,60,78,17,18,23,58,91,17,27,83,25
+Daniel Mosley,female,group C,associate's degree,free/reduced,none,89,72,60,27,22,18,67,79,20,24,55,16
+Michael Evans,female,group D,high school,standard,none,59,73,47,18,22,14,87,98,26,29,70,21
+Steven Wilson,male,group D,master's degree,standard,none,76,99,38,23,30,11,65,74,20,22,86,26
+Donna Murphy,male,group E,some high school,free/reduced,completed,62,75,58,19,22,17,69,61,21,18,55,16
+David Barnett,female,group D,some college,standard,none,70,69,70,21,21,21,75,88,22,26,69,21
+Jared Freeman,male,group E,some college,standard,none,85,85,49,26,26,15,59,37,18,11,63,19
+Barry Gibson,male,group C,associate's degree,standard,completed,52,67,69,16,20,21,73,78,22,23,66,20
+Kenneth Jimenez,female,group C,some high school,standard,completed,61,63,65,18,19,20,64,51,19,15,78,23
+Heather Herrera,male,group A,high school,free/reduced,none,97,50,54,29,15,16,74,46,22,14,57,17
+Lori Gonzales,female,group B,high school,free/reduced,none,42,68,51,13,20,15,74,74,22,22,81,24
+Elaine Calderon,female,group C,associate's degree,standard,none,41,74,56,12,22,17,74,64,22,19,90,27
+Regina Carey,male,group B,some high school,standard,none,58,56,81,17,17,24,80,55,24,16,49,15
+Aaron Hill,male,group D,some high school,standard,none,64,71,57,19,21,17,84,44,25,13,28,8
+Gary Matthews,female,group C,some high school,standard,completed,57,91,89,17,27,27,66,61,20,18,47,14
+Zachary Tran,male,group A,some college,standard,none,69,70,60,21,21,18,78,50,23,15,72,22
+Paul Mann,female,group A,some college,free/reduced,none,70,78,81,21,23,24,43,77,13,23,62,19
+Cindy Dunlap,female,group D,high school,standard,completed,61,98,49,18,29,15,72,37,22,11,67,20
+Katherine Sanders,female,group C,high school,standard,none,71,58,66,21,17,20,78,87,23,26,67,20
+Dr. Dorothy Thomas,female,group C,some high school,standard,none,62,89,64,19,27,19,69,64,21,19,62,19
+Jenna Walls,male,group B,associate's degree,standard,completed,84,93,79,25,28,24,67,56,20,17,86,26
+John Carson,female,group B,associate's degree,standard,none,68,89,73,20,27,22,100,73,30,22,83,25
+Jennifer Miller,female,group D,high school,free/reduced,completed,59,72,71,18,22,21,51,50,15,15,96,29
+Misty Pineda,male,group D,associate's degree,standard,completed,70,82,88,21,25,26,79,66,24,20,36,11
+Collin Baker,female,group D,master's degree,standard,completed,55,67,77,16,20,23,78,61,23,18,67,20
+Laurie Leonard,male,group E,some college,standard,completed,79,75,54,24,22,16,71,75,21,22,50,15
+Amy Cook,male,group D,associate's degree,standard,none,80,45,47,24,14,14,75,84,22,25,36,11
+Michael Watkins,male,group B,some high school,standard,completed,57,74,83,17,22,25,98,84,29,25,62,19
+Alice Morton,female,group C,bachelor's degree,free/reduced,completed,83,85,68,25,26,20,55,48,16,14,70,21
+William Garcia,male,group E,high school,standard,none,44,72,47,13,22,14,54,95,16,28,47,14
+Connie Wilson,male,group C,bachelor's degree,standard,completed,67,87,65,20,26,20,63,73,19,22,45,14
+Michael Sharp,male,group C,associate's degree,standard,none,47,75,82,14,22,25,65,86,20,26,89,27
+Michele Perkins,male,group D,some college,standard,none,70,67,52,21,20,16,74,57,22,17,74,22
+Daniel Moyer,male,group E,high school,free/reduced,completed,74,67,69,22,20,21,71,80,21,24,55,16
+John Scott,female,group C,associate's degree,free/reduced,completed,93,45,80,28,14,24,60,76,18,23,59,18
+Brandi Jackson,female,group D,high school,standard,completed,59,62,42,18,19,13,50,50,15,15,83,25
+Amber Hawkins,female,group D,master's degree,free/reduced,completed,66,51,81,20,15,24,52,55,16,16,54,16
+Tyler Martin,female,group A,some high school,standard,completed,63,63,56,19,19,17,100,57,30,17,60,18
+Deborah Abbott,male,group B,some college,free/reduced,none,70,64,59,21,19,18,45,61,14,18,67,20
+Neil Wilson,female,group C,some college,free/reduced,none,57,68,100,17,20,30,81,91,24,27,58,17
+Andrea Morales,male,group C,bachelor's degree,standard,none,63,53,84,19,16,25,53,60,16,18,80,24
+Shawn Dunn,male,group C,some high school,free/reduced,none,86,58,69,26,17,21,50,44,15,13,94,28
+Amber Burns,male,group A,some high school,free/reduced,none,67,76,34,20,23,10,81,64,24,19,53,16
+James Schaefer,male,group C,some high school,free/reduced,none,67,52,84,20,16,25,86,39,26,12,32,10
+Christine Charles,male,group C,associate's degree,free/reduced,none,92,77,54,28,23,16,78,62,23,19,63,19
+Calvin Carpenter PhD,female,group C,high school,standard,none,82,79,86,25,24,26,92,68,28,20,92,28
+Mark Graham,male,group C,high school,standard,none,56,32,84,17,10,25,58,76,17,23,62,19
+William Sherman,female,group A,some high school,free/reduced,none,84,53,84,25,16,25,32,64,10,19,77,23
+Eric Neal,male,group C,some high school,standard,none,91,61,40,27,18,12,60,57,18,17,65,20
+Ryan Hernandez,male,group C,some college,free/reduced,completed,35,53,80,10,16,24,58,87,17,26,48,14
+Lauren Byrd,male,group D,associate's degree,standard,none,72,48,45,22,14,14,69,66,21,20,66,20
+Vanessa Thomas,male,group D,associate's degree,free/reduced,none,98,65,61,29,20,18,65,56,20,17,86,26
+Joshua Roberts,male,group C,high school,standard,none,70,61,61,21,18,18,68,52,20,16,65,20
+Zachary Cooper,male,group D,some high school,standard,completed,54,64,100,16,19,30,29,81,9,24,57,17
+Latoya Collins,female,group C,some college,standard,completed,57,61,78,17,18,23,63,48,19,14,84,25
+Joshua Holland,female,group D,high school,standard,none,71,87,68,21,26,20,89,78,27,23,63,19
+Mario Massey,female,group A,some high school,free/reduced,none,52,82,96,16,25,29,79,74,24,22,60,18
+Kristina Miller,female,group B,associate's degree,standard,none,61,93,100,18,28,30,40,62,12,19,68,20
+Kristin Martinez,male,group A,some high school,free/reduced,none,88,71,39,26,21,12,54,78,16,23,76,23
+Joseph Hernandez,female,group C,some high school,standard,completed,59,73,65,18,22,20,84,52,25,16,42,13
+Daisy Miller,male,group D,some college,free/reduced,none,62,50,71,19,15,21,39,71,12,21,68,20
+Steven Mooney,male,group C,high school,standard,completed,66,90,70,20,27,21,67,61,20,18,42,13
+Kara Rodriguez,male,group B,high school,standard,none,62,65,77,19,20,23,48,67,14,20,65,20
+Kevin Calhoun,male,group B,associate's degree,standard,none,48,35,49,14,10,15,96,81,29,24,57,17
+Amanda Green,female,group C,some college,free/reduced,completed,52,41,77,16,12,23,72,81,22,24,53,16
+Patricia Hall,female,group E,some college,standard,none,72,81,62,22,24,19,69,84,21,25,60,18
+John Rivera,female,group C,associate's degree,free/reduced,none,88,85,59,26,26,18,89,22,27,7,55,16
+Jason Cabrera,male,group C,some college,free/reduced,none,79,84,67,24,25,20,61,92,18,28,73,22
+Barbara Garcia,female,group C,associate's degree,free/reduced,none,47,63,51,14,19,15,51,26,15,8,71,21
+Jessica Kim,male,group C,bachelor's degree,free/reduced,none,79,81,96,24,24,29,60,63,18,19,53,16
+Jerome Werner,female,group D,bachelor's degree,standard,none,52,60,76,16,18,23,86,64,26,19,53,16
+Frank Miranda,male,group D,associate's degree,free/reduced,none,59,92,60,18,28,18,69,56,21,17,41,12
+Philip Miller,female,group E,bachelor's degree,standard,none,73,75,60,22,22,18,73,70,22,21,53,16
+Jennifer Ramirez,male,group B,high school,standard,completed,45,61,56,14,18,17,75,82,22,25,61,18
+Martha Palmer,male,group C,bachelor's degree,free/reduced,none,79,75,64,24,22,19,57,68,17,20,58,17
+Lisa Griffin,male,group B,some college,free/reduced,none,62,82,76,19,25,23,89,69,27,21,77,23
+Amy Miller,female,group E,some college,standard,none,41,92,78,12,28,23,66,50,20,15,62,19
+Cheryl Perry,female,group C,some college,free/reduced,none,68,65,73,20,20,22,61,66,18,20,98,29
+Devin Moyer,male,group A,bachelor's degree,standard,completed,66,63,78,20,19,23,85,85,26,26,77,23
+John Cunningham,female,group C,some college,standard,none,84,63,52,25,19,16,82,80,25,24,59,18
+John Daniel,female,group D,associate's degree,free/reduced,none,51,57,50,15,17,15,38,75,11,22,49,15
+Diane Kramer,male,group A,high school,free/reduced,completed,50,49,70,15,15,21,52,42,16,13,60,18
+Jonathan Carpenter,female,group A,high school,free/reduced,completed,79,79,76,24,24,23,56,77,17,23,81,24
+Mariah Carter,male,group C,some college,standard,none,63,86,48,19,26,14,94,87,28,26,75,22
+John Clark,female,group C,associate's degree,standard,completed,66,60,65,20,18,20,66,82,20,25,46,14
+Melissa Golden,female,group C,high school,standard,none,81,71,74,24,21,22,35,48,10,14,75,22
+Lori Hodges,female,group C,associate's degree,standard,completed,81,60,98,24,18,29,53,89,16,27,100,30
+Christine Mcneil,female,group D,some high school,standard,none,63,69,81,19,21,24,69,71,21,21,44,13
+Charles Morris,female,group B,associate's degree,standard,completed,51,52,56,15,16,17,56,73,17,22,36,11
+Sydney Miranda,female,group D,bachelor's degree,standard,completed,55,42,96,16,13,29,75,66,22,20,66,20
+Amy Jones,male,group E,bachelor's degree,standard,completed,79,94,84,24,28,25,74,62,22,19,61,18
+Allison Campbell DDS,male,group D,associate's degree,standard,none,65,56,68,20,17,20,58,89,17,27,72,22
+Fred Young,female,group D,master's degree,standard,none,74,70,52,22,21,16,70,43,21,13,70,21
+Brian Hubbard,male,group E,associate's degree,standard,none,100,68,43,30,20,13,74,97,22,29,78,23
+Samantha Jones,male,group B,high school,standard,completed,81,66,87,24,20,26,94,83,28,25,68,20
+Luis Johnson II,female,group D,associate's degree,free/reduced,none,93,83,58,28,25,17,79,52,24,16,55,16
+Barbara Randolph,male,group C,some college,free/reduced,none,66,100,56,20,30,17,59,99,18,30,86,26
+Faith Trujillo,male,group A,high school,standard,none,46,66,62,14,20,19,71,59,21,18,79,24
+Douglas Tate,female,group B,associate's degree,standard,none,79,73,82,24,22,25,25,88,8,26,75,22
+Sarah Poole,male,group C,high school,standard,none,64,58,68,19,17,20,64,80,19,24,57,17
+Kathryn Bailey,male,group D,some college,free/reduced,none,82,70,41,25,21,12,83,51,25,15,74,22
+Christopher Rojas,female,group C,associate's degree,free/reduced,none,77,91,68,23,27,20,76,74,23,22,62,19
+Kayla Flynn,male,group B,some high school,standard,completed,77,77,76,23,23,23,71,48,21,14,65,20
+Kim Flynn,male,group A,associate's degree,free/reduced,completed,62,63,71,19,19,21,80,61,24,18,66,20
+Brandy King,female,group A,associate's degree,free/reduced,none,64,42,76,19,13,23,82,66,25,20,100,30
+Ashley James,female,group C,associate's degree,standard,none,42,100,64,13,30,19,98,82,29,25,69,21
+Sarah Mejia,female,group C,some college,standard,none,78,14,74,23,4,22,60,65,18,20,77,23
+Alexis Hayes,female,group C,bachelor's degree,standard,none,77,50,42,23,15,13,46,49,14,15,68,20
+Maria Nelson,female,group B,high school,standard,none,94,52,84,28,16,25,57,74,17,22,55,16
+Mrs. Leah Calderon DDS,male,group D,high school,standard,completed,70,81,43,21,24,13,78,49,23,15,70,21
+Eric Matthews,female,group C,some college,standard,none,92,65,75,28,20,22,71,47,21,14,79,24
+Angelica Gonzalez PhD,female,group D,some college,free/reduced,completed,62,80,88,19,24,26,72,84,22,25,63,19
+Anne Kelley,female,group B,some high school,standard,none,82,57,75,25,17,22,75,57,22,17,52,16
+Travis Black,male,group E,some college,standard,none,51,56,60,15,17,18,71,84,21,25,89,27
+Brian Smith,female,group D,master's degree,standard,none,58,47,75,17,14,22,67,64,20,19,58,17
+Jonathan Dalton,female,group B,associate's degree,standard,completed,59,52,88,18,16,26,70,64,21,19,64,19
+Donald Rodriguez,male,group C,some college,free/reduced,none,63,67,66,19,20,20,98,64,29,19,91,27
+Arthur Vasquez,female,group E,associate's degree,standard,completed,74,45,48,22,14,14,52,65,16,20,61,18
+Jon Murphy,female,group D,master's degree,free/reduced,none,60,100,70,18,30,21,70,63,21,19,55,16
+Nicole Cantrell,female,group B,some high school,standard,none,64,47,66,19,14,20,70,64,21,19,58,17
+Brandon Wall,male,group A,high school,standard,none,86,58,72,26,17,22,68,61,20,18,56,17
+Ralph Charles,male,group B,bachelor's degree,free/reduced,none,68,59,53,20,18,16,89,72,27,22,72,22
+Bradley Mccullough,male,group C,master's degree,standard,none,51,82,68,15,25,20,38,76,11,23,63,19
+Scott Smith,female,group C,bachelor's degree,standard,none,53,39,61,16,12,18,78,56,23,17,91,27
+Matthew Briggs,male,group D,some college,standard,none,90,71,64,27,21,19,48,59,14,18,61,18
+Courtney Shields,male,group A,some high school,standard,none,72,66,65,22,20,20,78,78,23,23,40,12
+Brian Lawrence,male,group D,some high school,free/reduced,none,71,64,75,21,19,22,72,38,22,11,91,27
+Daniel Farmer,female,group B,some high school,standard,completed,56,48,75,17,14,22,62,40,19,12,45,14
+Mike Dean PhD,female,group B,master's degree,free/reduced,completed,68,34,83,20,10,25,49,43,15,13,68,20
+John Carey,female,group C,some high school,standard,completed,25,60,68,8,18,20,58,76,17,23,88,26
+Danielle Garcia,female,group D,some college,standard,none,61,53,70,18,16,21,98,65,29,20,30,9
+Emily King,female,group E,some college,standard,completed,77,74,52,23,22,16,74,57,22,17,78,23
+Joseph Cunningham,female,group D,some high school,standard,completed,68,80,42,20,24,13,66,63,20,19,81,24
+Olivia Fleming,female,group B,high school,free/reduced,completed,66,63,64,20,19,19,63,61,19,18,72,22
+Lee Sullivan,male,group D,some college,standard,none,59,77,30,18,23,9,55,61,16,18,47,14
+Ann Vaughn,female,group C,associate's degree,standard,none,77,63,66,23,19,20,92,90,28,27,72,22
+Laura Valenzuela,male,group D,bachelor's degree,standard,none,80,50,63,24,15,19,75,88,22,26,63,19
+Crystal Rogers,male,group C,master's degree,free/reduced,none,45,85,43,14,26,13,89,84,27,25,66,20
+Lisa York,male,group C,high school,standard,completed,85,43,31,26,13,9,48,84,14,25,81,24
+Sean Diaz,male,group E,some college,standard,none,49,82,69,15,25,21,72,82,22,25,67,20
+Victoria Brewer,male,group C,some high school,free/reduced,completed,65,63,59,20,19,18,58,58,17,17,57,17
+Jonathan Martinez,female,group C,high school,free/reduced,none,32,76,63,10,23,19,71,72,21,22,57,17
+Rick Lowery,female,group D,bachelor's degree,free/reduced,none,71,67,64,21,20,19,88,86,26,26,51,15
+Theresa Lindsey,female,group C,associate's degree,standard,none,83,60,46,25,18,14,55,61,16,18,59,18
+Ashley Hernandez,female,group C,associate's degree,standard,completed,50,65,53,15,20,16,66,53,20,16,42,13
+Nathaniel Flores,female,group C,some high school,standard,none,71,60,89,21,18,27,75,67,22,20,62,19
+Michelle Velasquez,male,group E,associate's degree,standard,completed,49,83,72,15,25,22,78,95,23,28,78,23
+Billy Whitehead,female,group E,associate's degree,standard,completed,72,71,53,22,21,16,63,72,19,22,46,14
+Carrie Jones,male,group B,high school,standard,completed,89,62,82,27,19,25,58,63,17,19,62,19
+Marco Huff,female,group C,bachelor's degree,free/reduced,completed,52,86,45,16,26,14,70,56,21,17,66,20
+Emily Calderon,male,group C,associate's degree,standard,completed,91,77,53,27,23,16,90,79,27,24,84,25
+Robert Ward,female,group D,high school,standard,none,58,84,58,17,25,17,61,60,18,18,63,19
+Robert Armstrong,male,group E,bachelor's degree,standard,completed,76,100,72,23,30,22,82,89,25,27,57,17
+Carolyn Washington,male,group A,associate's degree,standard,completed,70,73,90,21,22,27,66,89,20,27,61,18
+Stuart Bishop,male,group C,high school,standard,completed,70,63,59,21,19,18,77,51,23,15,56,17
+Stephen Ibarra,male,group D,associate's degree,free/reduced,completed,59,56,80,18,17,24,99,78,30,23,76,23
+Jeremy Hicks,female,group C,associate's degree,standard,none,99,70,60,30,21,18,88,79,26,24,79,24
+Ian Hopkins,female,group D,associate's degree,standard,none,52,96,63,16,29,19,49,54,15,16,80,24
+Kimberly Murphy,female,group D,master's degree,standard,none,76,56,48,23,17,14,74,71,22,21,57,17
+Steven Clay,male,group E,some high school,free/reduced,completed,71,33,100,21,10,30,75,34,22,10,75,22
+Anthony Andersen,female,group A,some high school,standard,completed,56,63,60,17,19,18,53,82,16,25,53,16
+Michael Bowers,male,group C,high school,standard,completed,84,64,72,25,19,22,69,51,21,15,54,16
+Michael Reed,female,group C,high school,free/reduced,none,70,70,71,21,21,21,93,90,28,27,74,22
+Travis Lucas,male,group C,master's degree,standard,none,83,70,92,25,21,28,90,65,27,20,52,16
+Gregory Thomas,male,group C,some high school,free/reduced,none,71,56,54,21,17,16,69,78,21,23,69,21
+John Beltran,male,group B,bachelor's degree,free/reduced,completed,64,100,100,19,30,30,79,64,24,19,98,29
+Linda Cannon,female,group B,associate's degree,standard,none,53,59,62,16,18,19,73,70,22,21,80,24
+Mark Bradley,male,group D,some college,free/reduced,none,51,84,62,15,25,19,71,71,21,21,55,16
+Glenn Thomas,male,group E,associate's degree,standard,none,60,57,50,18,17,15,88,58,26,17,78,23
+Ryan Rogers,female,group C,some college,free/reduced,none,35,57,36,10,17,11,58,61,17,18,100,30
+Lisa Phillips,female,group C,associate's degree,standard,completed,93,58,88,28,17,26,65,68,20,20,62,19
+Eric Johnston,male,group C,master's degree,free/reduced,none,61,72,69,18,22,21,46,91,14,27,60,18
+Roy Sims,female,group B,associate's degree,free/reduced,none,39,57,92,12,17,28,47,42,14,13,83,25
+Heidi Cox,male,group D,some high school,standard,none,78,45,44,23,14,13,79,50,24,15,59,18
+David Rivers,female,group D,some college,standard,completed,52,70,69,16,21,21,55,65,16,20,84,25
+Steven Carter,female,group C,some college,standard,none,64,69,100,19,21,30,75,51,22,15,85,26
+Ms. Stacy Barry,male,group C,bachelor's degree,standard,completed,63,65,72,19,20,22,51,77,15,23,62,19
+Jennifer Key,female,group D,some college,free/reduced,completed,89,60,73,27,18,22,87,89,26,27,81,24
+Sarah Santiago,male,group B,bachelor's degree,free/reduced,none,100,77,74,30,23,22,99,50,30,15,57,17
+Johnny Bates,male,group B,associate's degree,standard,none,73,83,68,22,25,20,77,55,23,16,69,21
+Nancy Wolfe,female,group E,bachelor's degree,free/reduced,completed,78,62,66,23,19,20,57,58,17,17,65,20
+Aaron Chapman,female,group D,master's degree,free/reduced,completed,68,73,95,20,22,28,57,62,17,19,76,23
+Kevin Johnson,male,group B,high school,free/reduced,none,56,63,55,17,19,16,63,73,19,22,66,20
+Philip Bentley,male,group D,bachelor's degree,free/reduced,none,82,79,90,25,24,27,73,71,22,21,60,18
+Thomas Conley,male,group B,some college,standard,completed,63,79,71,19,24,21,59,66,18,20,73,22
+Christopher Cummings,male,group A,bachelor's degree,standard,none,70,73,80,21,22,24,79,82,24,25,53,16
+Curtis Middleton,female,group C,some college,standard,none,80,69,100,24,21,30,38,100,11,30,48,14
+April Cabrera,female,group C,high school,free/reduced,completed,84,56,55,25,17,16,86,73,26,22,46,14
+April Brown,female,group E,high school,standard,none,45,97,62,14,29,19,68,64,20,19,62,19
+Karen Copeland,male,group A,associate's degree,free/reduced,completed,54,81,55,16,24,16,65,89,20,27,53,16
+Alexander Gonzalez,male,group A,some college,standard,completed,85,70,42,26,21,13,50,79,15,24,45,14
+Michaela Santos,female,group B,high school,standard,none,66,69,72,20,21,22,54,48,16,14,55,16
+Corey Michael,female,group B,some college,free/reduced,completed,65,91,59,20,27,18,80,59,24,18,65,20
+Michael Hudson,female,group D,master's degree,standard,none,59,83,65,18,25,20,65,58,20,17,76,23
+Jeremiah Perez,female,group D,some high school,standard,none,57,64,68,17,19,20,74,59,22,18,45,14
+Jesse Richard,female,group E,some high school,standard,none,49,41,77,15,12,23,53,51,16,15,87,26
+Kenneth Smith,female,group D,bachelor's degree,free/reduced,none,21,62,77,6,19,23,73,89,22,27,68,20
+Jacob Clark,female,group D,associate's degree,standard,completed,46,69,74,14,21,22,63,61,19,18,62,19
+Andrew Flores,female,group D,some college,standard,none,56,67,70,17,20,21,72,71,22,21,70,21
+Robin Sanchez,female,group C,associate's degree,standard,none,47,51,40,14,15,12,70,94,21,28,55,16
+Anthony Stone,female,group A,high school,standard,none,55,96,55,16,29,16,65,57,20,17,60,18
+Amber Palmer,female,group C,bachelor's degree,free/reduced,none,70,62,64,21,19,19,47,65,14,20,80,24
+Megan Hill,female,group C,some college,standard,none,61,71,74,18,21,22,70,66,21,20,75,22
+Christopher Andrade,female,group A,some high school,standard,none,48,100,62,14,30,19,66,68,20,20,71,21
+Nathaniel Boone,male,group C,some college,free/reduced,none,54,85,96,16,26,29,71,32,21,10,83,25
+Anthony Cook,male,group A,some high school,standard,none,62,68,69,19,20,21,46,62,14,19,69,21
+John Powers,male,group E,bachelor's degree,standard,none,60,57,96,18,17,29,74,41,22,12,79,24
+Mackenzie Dunn,female,group E,high school,standard,none,74,67,58,22,20,17,69,75,21,22,59,18
+Ricky Lynch,female,group C,bachelor's degree,standard,completed,66,59,51,20,18,15,74,83,22,25,68,20
+Kendra Morales,female,group C,bachelor's degree,standard,completed,93,45,63,28,14,19,48,42,14,13,48,14
+Aaron Christian,male,group B,high school,free/reduced,none,72,80,78,22,24,23,61,69,18,21,73,22
+Mrs. Kathleen Bradshaw,male,group A,some high school,standard,none,86,61,78,26,18,23,73,71,22,21,54,16
+Kristina Young,female,group D,high school,standard,none,54,74,76,16,22,23,87,75,26,22,55,16
+Roy Hopkins,female,group D,some high school,standard,none,40,55,92,12,16,28,40,61,12,18,78,23
+Bonnie Sharp,female,group D,master's degree,standard,none,60,52,65,18,16,20,63,26,19,8,57,17
+Ashley Andrews,female,group C,high school,standard,none,74,78,62,22,23,19,63,46,19,14,53,16
+Scott Lewis,female,group E,some college,standard,none,64,73,53,19,22,16,58,67,17,20,73,22
+Douglas Sanders,male,group D,high school,free/reduced,none,51,66,70,15,20,21,84,51,25,15,70,21
+William Johnson,male,group D,master's degree,free/reduced,completed,37,61,86,11,18,26,56,65,17,20,45,14
+Luke Jones,male,group C,some high school,standard,none,63,70,60,19,21,18,91,70,27,21,54,16
+Gerald Welch,female,group C,associate's degree,standard,none,71,67,96,21,20,29,92,48,28,14,70,21
+Anna Smith,female,group C,master's degree,free/reduced,none,53,39,84,16,12,25,61,55,18,16,78,23
+Lori Moore,female,group E,some college,standard,none,60,71,77,18,21,23,92,57,28,17,72,22
+Michael Lambert,female,group B,associate's degree,standard,none,67,66,82,20,20,25,62,51,19,15,79,24
+Caitlin Clements,male,group D,some college,free/reduced,completed,77,38,83,23,11,25,79,49,24,15,100,30
+Joseph Garza,female,group C,some college,standard,none,53,55,53,16,16,16,57,83,17,25,55,16
+Darrell Robertson,male,group C,bachelor's degree,standard,completed,100,38,51,30,11,15,52,74,16,22,84,25
+Christina Ponce,female,group C,associate's degree,standard,none,32,50,79,10,15,24,71,51,21,15,78,23
+Andrew Mcdaniel,female,group A,associate's degree,standard,none,79,76,36,24,23,11,34,100,10,30,69,21
+Linda Conway,female,group C,high school,standard,none,59,81,63,18,24,19,58,63,17,19,71,21
+Stacy Willis,female,group E,bachelor's degree,standard,none,66,45,77,20,14,23,70,88,21,26,69,21
+Benjamin Reid,male,group D,bachelor's degree,standard,none,59,72,53,18,22,16,74,74,22,22,71,21
+Kelsey Novak,male,group D,master's degree,standard,none,39,76,72,12,23,22,86,83,26,25,75,22
+Gary Moreno,male,group C,associate's degree,free/reduced,completed,73,78,66,22,23,20,45,83,14,25,52,16
+Nicole Parrish,female,group C,high school,free/reduced,none,54,68,41,16,20,12,79,72,24,22,58,17
+Oscar Holt,male,group B,bachelor's degree,free/reduced,none,45,76,31,14,23,9,66,68,20,20,48,14
+Jerry Sandoval,male,group C,high school,free/reduced,completed,67,82,100,20,25,30,93,78,28,23,78,23
+Tyler Cook Jr.,male,group A,some college,standard,completed,40,71,42,12,21,13,89,80,27,24,56,17
+John Morris,female,group E,bachelor's degree,free/reduced,none,57,60,72,17,18,22,71,59,21,18,61,18
+Eric Zimmerman,male,group D,some college,standard,completed,65,56,50,20,17,15,60,67,18,20,57,17
+Julie Sanders,male,group B,associate's degree,free/reduced,completed,83,54,49,25,16,15,69,51,21,15,70,21
+Julie Martinez,male,group D,associate's degree,standard,none,68,81,81,20,24,24,53,68,16,20,65,20
+Eric Bradshaw,male,group D,some college,free/reduced,none,75,64,53,22,19,16,56,62,17,19,100,30
+Felicia Poole,female,group C,some high school,standard,completed,25,47,51,8,14,15,87,86,26,26,56,17
+Barbara Brown,male,group D,some college,standard,none,67,58,73,20,17,22,61,77,18,23,71,21
+Shelby Baldwin,male,group B,high school,standard,none,73,77,61,22,23,18,100,83,30,25,52,16
+Sarah Walls,female,group B,bachelor's degree,standard,completed,58,71,57,17,21,17,71,77,21,23,64,19
+Andrew Phillips,female,group C,high school,standard,none,67,60,75,20,18,22,85,56,26,17,44,13
+Shane Reed,male,group D,some high school,standard,none,86,86,55,26,26,16,92,36,28,11,63,19
+Mr. Steven Archer,male,group A,high school,standard,none,69,61,53,21,18,16,75,64,22,19,62,19
+Patrick Christensen,female,group B,high school,free/reduced,completed,68,73,71,20,22,21,51,77,15,23,69,21
+Laura Miller,female,group D,some high school,standard,completed,36,60,77,11,18,23,76,48,23,14,52,16
+Anthony Byrd,male,group E,some college,standard,none,77,44,45,23,13,14,84,57,25,17,88,26
+Joseph Tucker,female,group D,associate's degree,standard,none,53,79,75,16,24,22,52,47,16,14,89,27
+Richard Curtis,male,group D,high school,standard,none,64,78,60,19,23,18,43,58,13,17,64,19
+Martin Walker,female,group D,associate's degree,free/reduced,completed,66,74,68,20,22,20,66,68,20,20,52,16
+Robert Gonzalez,female,group B,some high school,free/reduced,none,58,86,44,17,26,13,58,87,17,26,81,24
+Brian Ramsey MD,female,group E,high school,standard,completed,76,75,79,23,22,24,52,59,16,18,67,20
+Jamie Brown,male,group B,high school,standard,none,71,84,69,21,25,21,64,47,19,14,29,9
+Tyler Kennedy,female,group B,bachelor's degree,standard,completed,34,46,100,10,14,30,51,71,15,21,80,24
+Denise Brown,female,group D,associate's degree,standard,none,60,60,55,18,18,16,60,57,18,17,50,15
+Megan Molina,female,group E,high school,free/reduced,none,55,59,66,16,18,20,52,78,16,23,70,21
+Megan Jones,female,group B,high school,standard,none,60,47,56,18,14,17,72,68,22,20,83,25
+Robert Brown,female,group D,some college,standard,completed,73,67,73,22,20,22,34,68,10,20,90,27
+David Douglas,male,group C,some high school,free/reduced,completed,57,56,53,17,17,16,64,83,19,25,62,19
+Lisa Davis,female,group A,high school,standard,completed,74,87,74,22,26,22,88,70,26,21,58,17
+Theodore Cole,female,group D,some college,standard,completed,74,56,53,22,17,16,79,61,24,18,73,22
+Jacqueline Wagner MD,female,group A,associate's degree,standard,completed,69,58,94,21,17,28,82,62,25,19,65,20
+Regina Moore,female,group B,some high school,standard,none,69,89,69,21,27,21,80,56,24,17,72,22
+Jonathan Love,female,group B,some college,standard,none,62,85,64,19,26,19,88,75,26,22,64,19
+John Bray,male,group C,associate's degree,free/reduced,none,100,64,49,30,19,15,75,38,22,11,64,19
+Tammie Robinson,male,group D,some high school,standard,none,54,67,74,16,20,22,82,66,25,20,68,20
+Alexander Lyons,female,group D,associate's degree,free/reduced,none,81,48,84,24,14,25,84,95,25,28,59,18
+David Pratt,male,group D,associate's degree,standard,none,60,68,93,18,20,28,63,82,19,25,61,18
+Brandy Davis,male,group C,some college,free/reduced,none,43,74,70,13,22,21,67,90,20,27,87,26
+Amy Nguyen,male,group C,some high school,standard,none,82,55,54,25,16,16,75,74,22,22,78,23
+Timothy Mann,female,group D,some college,free/reduced,none,58,66,73,17,20,22,78,54,23,16,83,25
+Danny Morton,female,group C,high school,standard,none,32,61,42,10,18,13,67,87,20,26,83,25
+Brad Brown,male,group D,associate's degree,standard,none,36,71,57,11,21,17,64,93,19,28,67,20
+Christopher Walton,female,group C,some high school,free/reduced,completed,80,84,84,24,25,25,67,88,20,26,81,24
+Mark Curry,female,group C,some college,free/reduced,completed,52,65,68,16,20,20,48,51,14,15,84,25
+Jessica Williams,female,group B,bachelor's degree,free/reduced,none,65,58,83,20,17,25,76,59,23,18,100,30
+Amber Miller,male,group C,some college,standard,none,79,77,100,24,23,30,71,93,21,28,54,16
+Joseph Salas DDS,male,group D,associate's degree,standard,completed,61,79,91,18,24,27,72,80,22,24,51,15
+Richard Best,female,group C,high school,free/reduced,none,47,60,47,14,18,14,48,68,14,20,53,16
+Sydney Lee,male,group D,associate's degree,free/reduced,none,76,69,89,23,21,27,68,57,20,17,52,16
+Diana Smith,female,group C,some college,standard,none,79,75,71,24,22,21,68,68,20,20,83,25
+Lori Hall,female,group C,associate's degree,standard,completed,100,72,93,30,22,28,66,69,20,21,50,15
+Tamara Murphy,female,group D,high school,standard,completed,63,55,67,19,16,20,89,68,27,20,58,17
+Robert Boyd,female,group B,some college,standard,completed,55,70,57,16,21,17,43,79,13,24,80,24
+Anthony Wilson,female,group E,some college,standard,completed,66,47,36,20,14,11,57,83,17,25,76,23
+Jon Chambers,female,group C,some high school,standard,completed,53,64,48,16,19,14,83,100,25,30,81,24
+Samuel Lucas,male,group D,associate's degree,free/reduced,none,82,79,84,25,24,25,65,66,20,20,33,10
+Christina Murphy,male,group D,some college,free/reduced,none,54,100,78,16,30,23,82,58,25,17,61,18
+Jennifer Collins,female,group D,high school,standard,none,45,68,81,14,20,24,51,47,15,14,74,22
+Jonathon Johnson,male,group B,high school,standard,none,84,64,59,25,19,18,65,72,20,22,74,22
+Donald Thompson,male,group B,high school,standard,none,61,83,84,18,25,25,55,72,16,22,70,21
+Joseph Allen,female,group C,some high school,free/reduced,completed,46,76,66,14,23,20,95,55,28,16,58,17
+Lauren Roman,male,group B,some college,standard,completed,85,66,89,26,20,27,90,64,27,19,77,23
+Joan Howe,female,group E,master's degree,standard,completed,96,40,90,29,12,27,74,43,22,13,77,23
+Patrick Johnson,male,group E,some college,standard,completed,72,75,77,22,22,23,83,58,25,17,76,23
+Tiffany Gilmore,male,group D,associate's degree,free/reduced,none,52,68,62,16,20,19,77,81,23,24,85,26
+Amy Williams,male,group A,high school,free/reduced,none,46,51,60,14,15,18,47,70,14,21,69,21
+Karen Hall,male,group E,some college,free/reduced,none,57,92,46,17,28,14,48,77,14,23,82,25
+Jonathan Wilson,female,group C,associate's degree,standard,none,60,68,77,18,20,23,70,67,21,20,77,23
+Jeffrey Harper,female,group E,associate's degree,free/reduced,none,65,42,77,20,13,23,55,100,16,30,54,16
+Justin Charles,female,group C,bachelor's degree,free/reduced,completed,57,63,86,17,19,26,76,83,23,25,64,19
+Karen Rivera,female,group D,associate's degree,standard,none,83,92,43,25,28,13,52,73,16,22,72,22
+John Contreras,female,group C,some high school,standard,none,64,66,63,19,20,19,55,69,16,21,58,17
+Andrew Wilkins,female,group D,some college,free/reduced,none,63,71,57,19,21,17,76,65,23,20,63,19
+Michael Reyes,female,group C,associate's degree,standard,completed,100,31,100,30,9,30,52,52,16,16,77,23
+Jill Nixon,female,group A,bachelor's degree,standard,none,55,88,75,16,26,22,85,83,26,25,81,24
+Jason Gray,female,group D,associate's degree,standard,completed,51,62,49,15,19,15,69,98,21,29,72,22
+Linda Stewart,male,group C,high school,free/reduced,none,55,97,50,16,29,15,62,68,19,20,82,25
+Amanda Martinez,female,group E,bachelor's degree,standard,completed,70,89,73,21,27,22,55,38,16,11,58,17
+Mark Lopez,female,group B,some high school,standard,none,70,86,66,21,26,20,80,67,24,20,81,24
+Christopher Thomas,male,group A,bachelor's degree,standard,completed,64,55,81,19,16,24,77,61,23,18,75,22
+Bryan Hill,female,group D,some college,standard,none,69,53,84,21,16,25,72,81,22,24,58,17
+Felicia Santos,female,group B,some high school,free/reduced,completed,85,53,61,26,16,18,73,81,22,24,54,16
+Sarah Good,male,group A,bachelor's degree,free/reduced,none,45,86,61,14,26,18,68,51,20,15,62,19
+Casey Anderson,male,group D,high school,standard,none,86,90,51,26,27,15,73,44,22,13,66,20
+Jennifer Jefferson,male,group C,some college,standard,none,61,95,52,18,28,16,58,82,17,25,40,12
+James Brown,male,group D,high school,standard,none,73,70,67,22,21,20,57,62,17,19,65,20
+Daryl Cardenas,female,group D,associate's degree,free/reduced,completed,89,59,43,27,18,13,59,46,18,14,48,14
+Brooke Shelton,male,group C,some college,standard,completed,46,60,67,14,18,20,57,75,17,22,46,14
+Joseph Hubbard,female,group E,some high school,standard,completed,67,64,68,20,19,20,62,85,19,26,56,17
+Mark Bailey,female,group D,some college,standard,none,54,48,51,16,14,15,98,69,29,21,82,25
+Jordan Snyder,male,group D,master's degree,standard,none,62,98,62,19,29,19,86,50,26,15,62,19
+Jeremy Prince,female,group B,some high school,standard,completed,70,87,33,21,26,10,67,20,20,6,57,17
+John Schroeder,female,group B,associate's degree,free/reduced,completed,70,58,60,21,17,18,58,85,17,26,71,21
+Melissa Simpson,male,group C,associate's degree,standard,completed,64,68,83,19,20,25,65,59,20,18,60,18
+Brian Miller,female,group C,associate's degree,standard,completed,82,55,68,25,16,20,76,52,23,16,59,18
+Ian Gibbs,female,group C,high school,standard,none,57,51,73,17,15,22,95,69,28,21,30,9
+Aaron Cooley,male,group E,associate's degree,free/reduced,completed,66,58,79,20,17,24,83,89,25,27,68,20
+Eric Harris,female,group C,some college,free/reduced,none,29,70,74,9,21,22,51,68,15,20,82,25
+Christopher Smith,male,group D,some high school,free/reduced,completed,69,57,68,21,17,20,82,70,25,21,65,20
+Kaitlyn White,female,group B,some high school,free/reduced,completed,51,70,82,15,21,25,59,66,18,20,65,20
+Chad Porter,male,group C,high school,standard,none,62,62,74,19,19,22,72,80,22,24,73,22
+Heather Davis,male,group B,some college,standard,none,75,56,79,22,17,24,52,55,16,16,77,23
+Christian Gregory,male,group E,some college,standard,completed,70,61,63,21,18,19,84,58,25,17,61,18
+Brenda Andrews,female,group E,associate's degree,standard,completed,83,66,73,25,20,22,74,49,22,15,32,10
+Billy Wright,male,group E,some high school,standard,completed,54,63,70,16,19,21,72,58,22,17,59,18
+Ana Brown,female,group D,high school,free/reduced,none,66,77,75,20,23,22,78,76,23,23,48,14
+Lisa Fuentes,male,group C,some college,standard,none,80,60,93,24,18,28,81,47,24,14,68,20
+Emily Spencer,female,group B,associate's degree,free/reduced,completed,58,64,100,17,19,30,82,58,25,17,37,11
+Nicole Simpson,male,group A,some high school,free/reduced,none,89,45,64,27,14,19,45,70,14,21,59,18
+Sandra Perez,female,group C,some college,standard,completed,80,82,100,24,25,30,95,37,28,11,63,19
+Lisa Gonzales,male,group D,some high school,standard,none,51,58,92,15,17,28,66,87,20,26,68,20
+Danielle Harper,female,group E,some college,free/reduced,none,47,47,53,14,14,16,60,89,18,27,58,17
+Derek Lynch,male,group C,master's degree,standard,none,76,62,36,23,19,11,79,46,24,14,57,17
+Cole Rosario,male,group C,associate's degree,standard,none,83,76,56,25,23,17,50,46,15,14,81,24
+Kevin Jones,female,group B,some college,free/reduced,completed,60,75,60,18,22,18,67,95,20,28,81,24
+Mark Boyer,male,group D,associate's degree,standard,none,79,77,71,24,23,21,76,64,23,19,47,14
+Vanessa Baxter,male,group C,high school,free/reduced,none,62,90,54,19,27,16,59,70,18,21,58,17
+Victoria Martinez,male,group D,bachelor's degree,standard,none,61,69,59,18,21,18,76,85,23,26,47,14
+Tyler Oliver,female,group A,associate's degree,free/reduced,none,72,75,50,22,22,15,72,55,22,16,55,16
+Angela White,female,group C,high school,standard,none,69,73,69,21,22,21,47,56,14,17,61,18
+Laura Chapman,female,group C,associate's degree,standard,completed,84,89,62,25,27,19,73,98,22,29,76,23
+Glenda Diaz,male,group B,some college,free/reduced,none,71,66,77,21,20,23,100,69,30,21,66,20
+Dana Johnson,male,group D,associate's degree,standard,none,52,67,65,16,20,20,73,56,22,17,49,15
+Dawn Perez,male,group D,high school,standard,none,64,85,70,19,26,21,44,78,13,23,37,11
+Jacob Leon,male,group C,some college,standard,none,67,53,55,20,16,16,91,57,27,17,71,21
+Lisa Moyer,female,group C,bachelor's degree,free/reduced,none,57,73,67,17,22,20,74,74,22,22,26,8
+Julie Brown,male,group B,some college,standard,completed,64,64,76,19,19,23,76,57,23,17,51,15
+Jennifer Jackson,male,group D,some high school,standard,completed,63,56,64,19,17,19,86,81,26,24,78,23
+Timothy Jones,male,group E,some college,standard,none,59,90,55,18,27,16,47,85,14,26,86,26
+Susan Owens,male,group C,master's degree,free/reduced,completed,72,82,92,22,25,28,65,44,20,13,62,19
+Mary Vaughn,female,group C,some high school,standard,completed,66,71,67,20,21,20,43,80,13,24,74,22
+Kenneth Mcknight,male,group C,associate's degree,free/reduced,none,36,68,58,11,20,17,84,90,25,27,50,15
+Ana Hart,female,group E,associate's degree,standard,none,45,89,52,14,27,16,70,56,21,17,66,20
+Sheila Dalton,male,group D,some college,standard,none,71,73,88,21,22,26,76,76,23,23,87,26
+Mary Welch,male,group E,bachelor's degree,free/reduced,completed,50,50,72,15,15,22,82,40,25,12,43,13
+Daniel Jenkins,female,group D,some college,free/reduced,completed,69,67,64,21,20,19,59,68,18,20,72,22
+Kelly King,male,group B,some college,standard,completed,78,77,59,23,23,18,83,64,25,19,65,20
+Michael Gray,female,group C,high school,free/reduced,none,70,74,96,21,22,29,69,70,21,21,76,23
+Garrett Hernandez,female,group D,some high school,standard,none,80,83,43,24,25,13,73,48,22,14,72,22
+Ricky Stokes,male,group D,some high school,standard,completed,61,38,81,18,11,24,74,67,22,20,61,18
+Norman Rollins,female,group B,high school,standard,none,22,71,85,7,21,26,77,78,23,23,64,19
+Jennifer Griffin,male,group D,some college,standard,none,81,69,65,24,21,20,74,71,22,21,49,15
+Patricia Smith,female,group B,high school,standard,none,90,63,82,27,19,25,57,54,17,16,61,18
+Andrew Morgan,female,group C,high school,standard,completed,84,57,79,25,17,24,57,87,17,26,100,30
+Edward Zimmerman,male,group B,high school,standard,completed,100,58,60,30,17,18,72,53,22,16,71,21
+Joshua Bradley,female,group D,some high school,standard,none,49,55,55,15,16,16,53,31,16,9,78,23
+Sandra Bush DVM,male,group A,some college,free/reduced,none,75,59,82,22,18,25,93,84,28,25,76,23
+Catherine Harrell,male,group B,high school,standard,none,84,90,43,25,27,13,53,65,16,20,79,24
+Jeffrey Ewing,male,group D,bachelor's degree,standard,none,100,57,50,30,17,15,69,57,21,17,69,21
+Dustin Lopez,female,group B,some high school,free/reduced,completed,83,61,40,25,18,12,75,50,22,15,84,25
+Misty Owens,female,group C,bachelor's degree,free/reduced,none,65,84,67,20,25,20,90,89,27,27,87,26
+Ruth Rice,male,group B,some college,standard,none,66,55,86,20,16,26,64,80,19,24,65,20
+Elizabeth Smith,female,group B,some high school,free/reduced,none,45,68,46,14,20,14,55,51,16,15,76,23
+Brendan Mckinney,female,group B,high school,standard,none,67,66,51,20,20,15,66,100,20,30,98,29
+Matthew Smith,female,group C,some college,free/reduced,none,49,83,82,15,25,25,58,39,17,12,89,27
+Steven Harvey III,female,group A,some college,standard,completed,71,76,51,21,23,15,77,65,23,20,60,18
+Cheryl Jennings,male,group E,associate's degree,standard,completed,36,59,73,11,18,22,70,73,21,22,71,21
+Wanda Newman,female,group D,associate's degree,free/reduced,none,62,100,68,19,30,20,85,65,26,20,92,28
+Alexis Morgan,female,group B,master's degree,standard,none,91,61,63,27,18,19,55,68,16,20,75,22
+Elizabeth Carter,female,group B,high school,free/reduced,completed,61,76,50,18,23,15,71,56,21,17,52,16
+Karen Martinez,female,group C,associate's degree,standard,completed,58,58,66,17,17,20,85,48,26,14,75,22
+Tiffany Stout,male,group C,bachelor's degree,standard,completed,70,73,78,21,22,23,64,73,19,22,71,21
+Sharon Ross,female,group B,some high school,standard,completed,55,49,68,16,15,20,70,63,21,19,65,20
+Eric Fisher,female,group E,some high school,free/reduced,none,68,91,59,20,27,18,77,56,23,17,88,26
+Howard Lang,female,group B,some college,standard,none,60,59,100,18,18,30,64,91,19,27,59,18
+Timothy Brown,male,group C,associate's degree,free/reduced,none,61,48,72,18,14,22,79,65,24,20,60,18
+Tina Miller,female,group C,master's degree,free/reduced,none,64,80,65,19,24,20,75,66,22,20,79,24
+Lisa Wood,female,group B,high school,standard,none,85,78,66,26,23,20,57,69,17,21,80,24
+Maria Huff,female,group D,some college,free/reduced,none,70,74,54,21,22,16,48,68,14,20,77,23
+Tyler Macias,male,group D,high school,free/reduced,none,58,39,88,17,12,26,86,72,26,22,57,17
+James Lutz,male,group E,some high school,standard,completed,75,63,55,22,19,16,62,55,19,16,38,11
+Robert Martin,female,group B,high school,standard,none,58,89,59,17,27,18,76,45,23,14,70,21
+Richard Riggs,female,group E,associate's degree,free/reduced,completed,76,40,56,23,12,17,76,74,23,22,49,15
+Michelle Lane,male,group D,high school,standard,none,72,84,49,22,25,15,75,75,22,22,57,17
+William Daniel,female,group E,associate's degree,free/reduced,none,66,86,68,20,26,20,67,84,20,25,77,23
+Jeffrey Park,male,group E,some college,standard,none,78,76,81,23,23,24,72,61,22,18,43,13
+Katie Reyes,female,group C,associate's degree,standard,none,84,54,70,25,16,21,94,67,28,20,74,22
+Sarah Cook,male,group C,some high school,standard,completed,88,66,82,26,20,25,51,79,15,24,61,18
+Craig Randall,male,group C,some high school,standard,completed,76,70,84,23,21,25,61,67,18,20,46,14
+Joseph Cruz,female,group E,associate's degree,standard,none,80,66,82,24,20,25,88,79,26,24,71,21
+Jordan Hunter,female,group B,some college,standard,none,59,91,71,18,27,21,52,66,16,20,61,18
+Virginia Adams,female,group C,some college,standard,none,55,100,89,16,30,27,80,27,24,8,44,13
+Michael Wilson,male,group A,some college,free/reduced,none,76,61,47,23,18,14,53,79,16,24,49,15
+Brian Lynn,female,group D,some college,free/reduced,none,74,67,48,22,20,14,54,50,16,15,47,14
+Gary Carter,female,group E,high school,free/reduced,none,85,58,54,26,17,16,60,53,18,16,80,24
+Samuel Moran,male,group C,high school,standard,none,65,26,77,20,8,23,61,76,18,23,76,23
+Stacy Martinez,male,group B,bachelor's degree,standard,none,23,81,72,7,24,22,80,65,24,20,53,16
+Jonathan Garcia,male,group A,some high school,standard,none,74,55,77,22,16,23,82,72,25,22,51,15
+Andre Carpenter,male,group A,high school,free/reduced,none,34,96,67,10,29,20,49,70,15,21,57,17
+Steven Black,female,group C,master's degree,standard,completed,63,73,49,19,22,15,87,85,26,26,73,22
+Donna Anderson,male,group E,some high school,standard,completed,74,66,63,22,20,19,75,59,22,18,76,23
+Abigail Carlson,female,group C,high school,standard,none,70,64,48,21,19,14,60,81,18,24,72,22
+William Johnson,male,group B,some high school,standard,completed,65,63,28,20,19,8,64,78,19,23,43,13
+Robin Jones,female,group A,bachelor's degree,standard,none,52,59,63,16,18,19,83,79,25,24,62,19
+Sarah Sharp,male,group D,bachelor's degree,free/reduced,completed,57,41,80,17,12,24,61,100,18,30,90,27
+James Wood,female,group B,high school,free/reduced,none,68,79,65,20,24,20,72,77,22,23,80,24
+Christopher Mills,female,group C,some high school,standard,none,30,70,62,9,21,19,94,67,28,20,90,27
+Debra Estrada,female,group A,some high school,standard,completed,75,63,64,22,19,19,62,59,19,18,36,11
+Bryan Mahoney,female,group D,bachelor's degree,free/reduced,none,73,75,55,22,22,16,80,69,24,21,63,19
+Katie Rhodes,male,group E,some college,free/reduced,completed,73,100,78,22,30,23,77,64,23,19,100,30
+Jason Ortega,female,group B,high school,free/reduced,none,40,56,69,12,17,21,68,63,20,19,53,16
+David Acosta,female,group C,some high school,free/reduced,none,59,43,56,18,13,17,81,55,24,16,69,21
+Juan Anderson,male,group C,high school,standard,none,51,76,77,15,23,23,85,59,26,18,65,20
+Keith Huber,female,group C,associate's degree,free/reduced,completed,70,59,67,21,18,20,95,81,28,24,86,26
+Elizabeth Mejia,female,group C,some high school,standard,none,72,62,80,22,19,24,71,60,21,18,64,19
+Christopher Weber,female,group D,some high school,free/reduced,completed,87,80,84,26,24,25,55,40,16,12,61,18
+Deanna Ochoa,male,group B,some high school,standard,none,72,78,67,22,23,20,68,73,20,22,52,16
+Mary Patel,female,group A,some college,free/reduced,none,82,68,65,25,20,20,78,68,23,20,62,19
+Pamela Martinez,female,group C,bachelor's degree,free/reduced,completed,68,76,68,20,23,20,68,78,20,23,82,25
+Rachael Marks,male,group A,bachelor's degree,standard,none,81,57,72,24,17,22,69,59,21,18,64,19
+Whitney Carter,female,group B,high school,standard,completed,58,59,66,17,18,20,66,43,20,13,82,25
+Denise Bradshaw,male,group B,some college,standard,none,55,76,56,16,23,17,64,72,19,22,59,18
+Michael Pennington,female,group C,high school,standard,completed,73,66,77,22,20,23,75,12,22,4,67,20
+Charlene Roach,male,group E,high school,standard,none,74,65,91,22,20,27,63,53,19,16,78,23
+Damon Rodriguez,female,group A,high school,standard,completed,84,67,63,25,20,19,54,67,16,20,65,20
+Mark Edwards,male,group B,associate's degree,free/reduced,completed,69,88,63,21,26,19,80,71,24,21,73,22
+Deborah Miller,female,group C,associate's degree,standard,none,70,68,69,21,20,21,55,46,16,14,86,26
+Danielle Walker,female,group D,high school,free/reduced,none,61,88,91,18,26,27,78,60,23,18,100,30
+Tiffany Scott PhD,male,group C,some high school,standard,none,70,83,73,21,25,22,73,49,22,15,71,21
+Kevin Harding,female,group B,high school,free/reduced,completed,60,70,67,18,21,20,71,86,21,26,68,20
+Vanessa Mendoza,male,group B,some college,free/reduced,completed,84,57,64,25,17,19,59,49,18,15,87,26
+Sarah Glover,female,group D,some high school,free/reduced,completed,75,60,38,22,18,11,77,50,23,15,64,19
+David Palmer,male,group E,master's degree,standard,none,65,80,71,20,24,21,22,64,7,19,77,23
+Bradley Reynolds,male,group C,master's degree,standard,completed,48,79,71,14,24,21,48,56,14,17,78,23
+Barbara Garner,male,group D,high school,standard,none,63,45,64,19,14,19,70,79,21,24,67,20
+Deborah Daniels,female,group C,high school,standard,none,70,75,64,21,22,19,81,68,24,20,60,18
+Linda Rodriguez,male,group D,associate's degree,standard,none,65,67,72,20,20,22,74,72,22,22,92,28
+Walter Singh,male,group C,master's degree,standard,none,57,69,100,17,21,30,82,45,25,14,81,24
+Kyle Griffin,female,group A,high school,standard,none,61,76,70,18,23,21,68,56,20,17,72,22
+Valerie Porter,female,group E,some college,standard,none,73,91,86,22,27,26,69,74,21,22,72,22
+Erica Leonard,male,group E,some high school,standard,none,68,71,100,20,21,30,86,97,26,29,82,25
+Lisa Vasquez,male,group C,some high school,standard,none,61,65,66,18,20,20,60,55,18,16,90,27
+Linda Harris,female,group B,bachelor's degree,standard,none,87,63,52,26,19,16,73,71,22,21,67,20
+Dawn Barber,male,group B,some college,free/reduced,none,74,86,79,22,26,24,76,56,23,17,55,16
+Jennifer Brown,female,group C,bachelor's degree,standard,none,79,84,81,24,25,24,59,71,18,21,77,23
+Timothy Lopez,male,group B,high school,standard,completed,64,74,76,19,22,23,66,56,20,17,64,19
+Sandra Stevens DDS,male,group C,associate's degree,free/reduced,none,70,87,54,21,26,16,53,64,16,19,72,22
+Joshua Kelly,female,group C,associate's degree,standard,none,62,84,61,19,25,18,85,68,26,20,75,22
+Jeffery Griffith,female,group E,master's degree,free/reduced,none,81,41,69,24,12,21,91,69,27,21,67,20
+Christopher Rodgers,male,group D,bachelor's degree,free/reduced,completed,82,54,72,25,16,22,27,99,8,30,61,18
+Karen Ware,female,group C,some college,standard,completed,70,61,44,21,18,13,49,59,15,18,86,26
+Calvin Villa,male,group C,associate's degree,standard,none,59,86,65,18,26,20,96,78,29,23,93,28
+Morgan Austin,male,group D,some college,standard,completed,50,51,81,15,15,24,65,89,20,27,67,20
+Phillip Dunlap,male,group C,high school,free/reduced,none,89,78,82,27,23,25,79,89,24,27,68,20
+Vincent Thomas,male,group B,associate's degree,standard,none,83,72,83,25,22,25,51,81,15,24,79,24
+Jamie Le,male,group E,associate's degree,free/reduced,completed,71,65,61,21,20,18,68,86,20,26,77,23
+Kristen Collier,male,group C,associate's degree,free/reduced,none,45,69,55,14,21,16,63,89,19,27,78,23
+Amber Peterson,male,group B,high school,standard,none,76,89,86,23,27,26,81,46,24,14,86,26
+Joseph Ross,female,group C,some college,standard,completed,76,57,53,23,17,16,74,47,22,14,50,15
+Alexander Anderson Jr.,male,group B,associate's degree,standard,completed,46,71,72,14,21,22,57,46,17,14,69,21
+Daniel Lopez,male,group E,associate's degree,free/reduced,none,74,56,55,22,17,16,100,73,30,22,48,14
+Dawn Murray,female,group C,bachelor's degree,free/reduced,none,54,75,99,16,22,30,44,62,13,19,46,14
+Mrs. Jeanette Berry MD,male,group C,some college,free/reduced,none,38,82,60,11,25,18,67,79,20,24,48,14
+Christian Larson,male,group D,some college,standard,none,77,94,57,23,28,17,69,80,21,24,57,17
+Michaela Cooper,male,group C,some high school,standard,none,78,77,48,23,23,14,81,59,24,18,70,21
+Wendy Lee,female,group D,some high school,standard,none,57,62,76,17,19,23,78,34,23,10,76,23
+Katie Perry,female,group D,associate's degree,standard,none,55,76,63,16,23,19,82,57,25,17,54,16
+Phillip Davis,male,group C,bachelor's degree,standard,completed,83,72,58,25,22,17,75,66,22,20,63,19
+Amanda Richards,female,group E,bachelor's degree,standard,completed,73,61,65,22,18,20,87,100,26,30,90,27
+William Gray,female,group B,high school,free/reduced,none,81,67,72,24,20,22,85,82,26,25,81,24
+Luis Burgess,male,group D,bachelor's degree,free/reduced,none,79,63,69,24,19,21,75,63,22,19,66,20
+Jasmine Phillips,female,group E,associate's degree,standard,none,100,78,57,30,23,17,65,66,20,20,62,19
+Joseph Perry,female,group C,associate's degree,standard,completed,51,80,85,15,24,26,58,51,17,15,68,20
+Trevor Lin,female,group E,associate's degree,standard,completed,70,92,54,21,28,16,77,80,23,24,48,14
+Karl Miles,male,group C,high school,free/reduced,none,87,68,40,26,20,12,58,65,17,20,67,20
+Alan Roberts,female,group D,some college,free/reduced,none,51,72,71,15,22,21,91,70,27,21,48,14
+Jill Vargas,male,group D,high school,free/reduced,none,88,89,75,26,27,22,70,64,21,19,44,13
+Joseph Walker,female,group E,some college,standard,completed,66,86,51,20,26,15,62,64,19,19,78,23
+Luis Strickland,female,group E,associate's degree,standard,none,41,71,49,12,21,15,60,75,18,22,55,16
+Marie Williams,female,group A,master's degree,free/reduced,none,78,73,91,23,22,27,48,78,14,23,23,7
+Sydney Thompson,male,group D,some high school,standard,completed,93,88,68,28,26,20,100,51,30,15,69,21
+Steven Collins,female,group E,associate's degree,standard,none,60,59,53,18,18,16,70,60,21,18,53,16
+Tammy Pierce,female,group E,some high school,free/reduced,none,60,87,61,18,26,18,70,55,21,16,81,24
+Sean Martinez,male,group B,high school,free/reduced,none,61,73,82,18,22,25,73,53,22,16,66,20
+Karen Osborn,female,group B,some high school,free/reduced,completed,64,64,68,19,19,20,77,80,23,24,66,20
+Summer Atkins,male,group D,associate's degree,standard,completed,76,67,70,23,20,21,95,69,28,21,62,19
+Thomas Finley,female,group D,some high school,standard,completed,60,61,61,18,18,18,76,59,23,18,74,22
+Thomas Smith,male,group D,master's degree,standard,none,56,59,70,17,18,21,55,68,16,20,71,21
+Sydney Wood MD,female,group C,master's degree,standard,none,51,80,42,15,24,13,86,63,26,19,69,21
+Elijah Torres,female,group A,high school,free/reduced,completed,42,50,67,13,15,20,75,88,22,26,68,20
+Maurice Tucker,female,group D,bachelor's degree,free/reduced,completed,57,85,69,17,26,21,77,57,23,17,71,21
+Scott Brown,female,group D,some high school,free/reduced,none,58,64,44,17,19,13,71,53,21,16,52,16
+Monica James,male,group D,some college,standard,none,60,78,79,18,23,24,87,75,26,22,60,18
+Eric Holland Jr.,male,group B,high school,standard,none,50,77,74,15,23,22,74,78,22,23,94,28
+Richard Rivera,female,group D,some college,standard,completed,89,75,61,27,22,18,83,83,25,25,90,27
+Andrew Bright,female,group C,bachelor's degree,free/reduced,none,50,100,63,15,30,19,71,75,21,22,48,14
+Joan White,male,group E,bachelor's degree,standard,completed,43,50,36,13,15,11,65,92,20,28,43,13
+Paige Russell,male,group D,bachelor's degree,free/reduced,none,28,74,86,8,22,26,77,86,23,26,82,25
+Pamela Rose,female,group A,some college,standard,none,65,67,75,20,20,22,49,60,15,18,67,20
+Deborah Johnson,female,group C,bachelor's degree,standard,completed,82,69,77,25,21,23,67,79,20,24,75,22
+Timothy Garner,female,group C,bachelor's degree,free/reduced,completed,74,65,75,22,20,22,67,67,20,20,82,25
+Jeremy Cherry,female,group B,associate's degree,free/reduced,none,67,54,76,20,16,23,67,79,20,24,72,22
+Sherry Willis,female,group E,some college,standard,none,58,54,86,17,16,26,49,48,15,14,66,20
+John Newman,male,group E,bachelor's degree,standard,completed,80,71,71,24,21,21,44,59,13,18,62,19
+April Smith,female,group C,high school,standard,none,83,93,47,25,28,14,100,55,30,16,46,14
+Eric Manning,female,group C,associate's degree,standard,completed,51,68,40,15,20,12,89,79,27,24,53,16
+Jose Gamble,male,group B,some college,standard,completed,64,51,64,19,15,19,82,72,25,22,47,14
+Matthew Santiago,male,group D,high school,free/reduced,none,61,57,82,18,17,25,58,77,17,23,84,25
+Joseph Cochran,female,group C,high school,free/reduced,none,59,50,44,18,15,13,56,100,17,30,69,21
+Sarah Dunn,male,group D,high school,standard,none,60,79,94,18,24,28,39,75,12,22,72,22
+Ryan Mercado,female,group B,associate's degree,free/reduced,none,69,52,65,21,16,20,60,83,18,25,92,28
+Victoria Hancock,male,group D,high school,free/reduced,none,64,43,57,19,13,17,79,37,24,11,60,18
+Matthew Woods,male,group E,some high school,standard,completed,71,81,48,21,24,14,84,83,25,25,50,15
+Kenneth Gallagher,male,group E,associate's degree,free/reduced,none,61,78,76,18,23,23,69,63,21,19,62,19
+Kathleen Lawrence,female,group D,high school,free/reduced,completed,62,55,47,19,16,14,48,88,14,26,90,27
+Laura Ray,male,group E,associate's degree,free/reduced,completed,72,72,54,22,22,16,70,73,21,22,41,12
+Molly Freeman,female,group C,some high school,free/reduced,none,56,65,73,17,20,22,91,70,27,21,79,24
+Stephanie Benitez,male,group C,some college,free/reduced,completed,85,92,94,26,28,28,83,96,25,29,100,30
+Riley Smith,male,group D,some college,free/reduced,none,69,62,75,21,19,22,63,92,19,28,71,21
+Heather Martin,male,group D,associate's degree,free/reduced,completed,81,99,62,24,30,19,73,80,22,24,70,21
+Heather Jones,male,group C,bachelor's degree,free/reduced,completed,72,75,56,22,22,17,85,69,26,21,47,14
+Michael Sloan,male,group C,associate's degree,standard,completed,73,63,35,22,19,10,56,45,17,14,55,16
+Henry Pittman,male,group D,some college,free/reduced,none,83,53,63,25,16,19,60,71,18,21,70,21
+David Smith,male,group A,associate's degree,standard,none,67,84,32,20,25,10,85,59,26,18,100,30
+Robert Brown,female,group E,high school,free/reduced,none,49,77,60,15,23,18,37,74,11,22,61,18
+Andrew Atkins,male,group D,some college,standard,completed,62,57,94,19,17,28,37,79,11,24,91,27
+Michael Livingston,male,group D,some high school,standard,completed,61,68,78,18,20,23,60,47,18,14,55,16
+Steven Washington,male,group C,master's degree,free/reduced,completed,64,66,72,19,20,22,74,65,22,20,81,24
+Erik Cruz,female,group D,master's degree,standard,none,51,85,90,15,26,27,69,81,21,24,71,21
+Tara Banks,male,group C,high school,standard,none,90,67,59,27,20,18,67,87,20,26,78,23
+David Curtis,male,group A,some high school,free/reduced,completed,45,93,86,14,28,26,67,94,20,28,50,15
+Dr. Michelle Carter,female,group B,high school,standard,none,31,83,86,9,25,26,74,40,22,12,57,17
+Barbara Meadows,female,group C,associate's degree,standard,none,69,93,70,21,28,21,61,57,18,17,63,19
+Edward Brown,male,group B,high school,standard,none,42,100,51,13,30,15,71,84,21,25,58,17
+Mr. Ethan Brown,female,group D,some college,free/reduced,none,51,65,51,15,20,15,92,63,28,19,94,28
+Edwin Mercado,male,group B,some high school,free/reduced,completed,46,46,81,14,14,24,78,64,23,19,38,11
+Brian Williams,female,group E,high school,free/reduced,completed,67,38,84,20,11,25,48,64,14,19,69,21
+Daniel Rodgers,male,group E,high school,standard,none,56,66,62,17,20,19,80,87,24,26,78,23
+Jacob Reid,female,group D,some college,standard,completed,68,62,86,20,19,26,63,67,19,20,46,14
+Alicia Ross,female,group E,some high school,free/reduced,none,58,46,59,17,14,18,68,68,20,20,63,19
+Christine Sparks,male,group C,high school,standard,completed,63,81,55,19,24,16,64,78,19,23,76,23
+Omar Gallagher,female,group C,some college,standard,none,74,100,73,22,30,22,74,63,22,19,81,24
+Angela Howard,male,group E,associate's degree,standard,none,57,77,75,17,23,22,78,92,23,28,57,17
+Michael Patton,male,group C,some college,standard,none,66,86,48,20,26,14,69,60,21,18,62,19
+Kelly Nolan,female,group D,master's degree,standard,none,56,65,76,17,20,23,85,79,26,24,76,23
+Samuel Rice,female,group D,high school,standard,none,86,100,52,26,30,16,70,97,21,29,65,20
+Adam Allison,male,group C,high school,standard,none,48,74,42,14,22,13,75,72,22,22,34,10
+Amanda Tate,female,group A,some college,standard,none,54,73,89,16,22,27,52,100,16,30,45,14
+Nicole Brown,female,group D,some high school,free/reduced,none,65,67,62,20,20,19,76,98,23,29,61,18
+Gail Prince,female,group E,associate's degree,standard,none,91,49,67,27,15,20,63,71,19,21,49,15
+Jessica Norris,female,group C,some high school,free/reduced,completed,89,68,100,27,20,30,51,94,15,28,72,22
+Mary Scott,male,group D,some college,standard,none,40,65,83,12,20,25,56,95,17,28,79,24
+Autumn Perry,female,group D,some college,standard,none,78,62,79,23,19,24,71,89,21,27,89,27
+Stephanie Reynolds,male,group A,some high school,standard,completed,68,66,85,20,20,26,74,96,22,29,77,23
+Daniel Schwartz,male,group C,some college,standard,none,75,64,73,22,19,22,47,64,14,19,49,15
+Roberta Perez,female,group E,associate's degree,standard,none,72,73,59,22,22,18,62,74,19,22,54,16
+Brandon Rush,female,group B,bachelor's degree,standard,none,42,48,90,13,14,27,78,81,23,24,50,15
+Kelsey Reyes,female,group D,bachelor's degree,standard,none,69,71,53,21,21,16,53,37,16,11,83,25
+Kimberly Lyons,male,group C,some high school,standard,completed,69,65,78,21,20,23,86,57,26,17,53,16
+James Miller,female,group A,high school,free/reduced,completed,71,98,81,21,29,24,61,78,18,23,62,19
+Hannah Hurst,female,group D,some college,free/reduced,none,52,96,63,16,29,19,100,85,30,26,70,21
+Benjamin Garner,female,group A,some college,standard,none,50,45,76,15,14,23,72,74,22,22,69,21
+Ryan Carlson,female,group C,some college,standard,completed,70,57,36,21,17,11,68,82,20,25,68,20
+Eric Frederick,male,group B,some college,free/reduced,completed,100,65,65,30,20,20,65,57,20,17,80,24
+Joseph Kim,male,group C,associate's degree,standard,none,69,77,77,21,23,23,100,58,30,17,37,11
+Carla Craig,male,group D,high school,standard,completed,85,82,71,26,25,21,73,79,22,24,73,22
+Anita Steele,female,group C,associate's degree,standard,none,80,78,100,24,23,30,57,63,17,19,52,16
+Alan Baker,female,group B,high school,free/reduced,none,55,64,42,16,19,13,100,54,30,16,78,23
+Matthew Mendoza,male,group D,some high school,standard,none,78,51,92,23,15,28,71,63,21,19,63,19
+Susan Morrow,male,group B,some high school,standard,completed,73,78,76,22,23,23,70,46,21,14,50,15
+Richard Martin,female,group A,some college,standard,completed,64,60,66,19,18,20,84,92,25,28,65,20
+Emma Ross,female,group C,some high school,standard,none,39,59,78,12,18,23,71,74,21,22,65,20
+Betty Mitchell,male,group A,high school,standard,none,93,73,78,28,22,23,81,72,24,22,71,21
+James Nguyen,female,group C,associate's degree,standard,none,61,73,56,18,22,17,90,80,27,24,80,24
+Natalie Young,male,group E,some high school,standard,completed,69,75,44,21,22,13,65,77,20,23,66,20
+Deborah Wilson,female,group A,some high school,free/reduced,none,70,88,68,21,26,20,79,70,24,21,73,22
+Mario Miles,female,group D,some college,free/reduced,completed,97,66,49,29,20,15,99,71,30,21,84,25
+Lisa Bishop,male,group E,high school,free/reduced,completed,54,62,89,16,19,27,76,82,23,25,85,26
+Melissa Cooper,female,group B,some high school,standard,completed,54,86,70,16,26,21,67,72,20,22,58,17
+William Reed,female,group D,associate's degree,free/reduced,none,74,63,68,22,19,20,70,42,21,13,82,25
+Brandon Faulkner,female,group D,bachelor's degree,free/reduced,none,50,49,87,15,15,26,66,82,20,25,61,18
+Eddie Simmons,male,group A,high school,standard,none,94,70,73,28,21,22,71,76,21,23,75,22
+Seth Bell,female,group E,master's degree,standard,completed,77,87,64,23,26,19,59,71,18,21,69,21
+Jon Shepard,male,group C,high school,free/reduced,none,41,69,68,12,21,20,77,67,23,20,56,17
+William Mcgrath,female,group C,high school,free/reduced,completed,59,76,52,18,23,16,36,60,11,18,68,20
+Kyle Smith,female,group D,some college,standard,completed,81,98,76,24,29,23,69,55,21,16,55,16
+Bryan Roberts,female,group D,some college,free/reduced,none,54,73,66,16,22,20,74,71,22,21,71,21
