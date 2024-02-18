@@ -58,6 +58,7 @@ def monitor_attention():
                         atnd.append(0)
         # cv2.imshow('Student Attention', frame)
         df = pd.DataFrame(atnd, columns=['Attention'])
+        
         df.to_csv('./attention.csv')
         if cv2.waitKey(1) == 13:
             break
