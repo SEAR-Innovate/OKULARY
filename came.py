@@ -4,71 +4,50 @@ from streamlit_option_menu import option_menu
 import sys
 sys.path.append('./student_analysis')
 
-st.markdown("<h1 style='text-align: center;'>OKULARY: Empowering Educators with Innovative Solutions</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #FF5733;'>📚 OKULARY: Empowering Educators with Innovative Solutions </h1>", unsafe_allow_html=True)
 
 selected = option_menu(
     menu_title=None,
-    options= ["Home","Plagerism Checker","AI Class Monitoring","Teacher Community","AI Course Outcomes and Answer Checking","Student Performance Tracking","Class Attendence"],
+    options= ["Home","Plagiarism Checker","Teacher Resources","Teacher Community","AI Course Outcomes and Answer Checking","Student Performance Tracking"],
     default_index=0,
     orientation="horizontal",
     styles={
     "container": {"padding": "0!important"},
-    "icon": {"color": "orange", "font-size": "12px"}, 
+    "icon": {"color": "#FF5733", "font-size": "12px"}, 
     "nav-link": {"font-size": "10px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
-    "nav-link-selected": {"background-color": "red"},
+    "nav-link-selected": {"background-color": "#FF5733"},
     }
 )
 
 
 if selected == 'Home':
     st.markdown('''
-Welcome to OKULARY, the ultimate teacher helper website designed to revolutionize the teaching experience. Our platform is built to address the diverse needs of educators by providing a comprehensive suite of resources, teaching methodologies, community support, AI-driven assessments, and performance analytics. 
+Welcome to **OKULARY**, the ultimate teacher helper website designed to revolutionize the teaching experience. Our platform is built to address the diverse needs of educators by providing a comprehensive suite of resources, teaching methodologies, community support, AI-driven assessments, and performance analytics. 
 
-## **Problem Statement:**
+🎯 Our aim is to develop an all-encompassing educational platform tailored for teachers, providing comprehensive resources, teaching methodologies, community support, AI-driven assessments, and performance analytics.
 
-Teaching is a demanding profession that requires educators to juggle multiple responsibilities, from lesson planning and assessment to classroom management and student engagement. With the increasing demands of modern education, teachers often find themselves overwhelmed and in need of support. OKULARY aims to bridge this gap by offering a one-stop solution that empowers educators with the tools and resources they need to excel in their profession.
+🔧 Our platform is designed to empower educators with the tools and resources they need to excel in their profession. Whether you're a seasoned teacher looking for new teaching strategies or a new teacher seeking guidance, **OKULARY** has something for everyone. Sign up now and start your journey towards becoming a more effective and successful educator.''')
 
-## **Aim:**
-
-Our aim is to develop an all-encompassing educational platform tailored for teachers, providing comprehensive resources, teaching methodologies, community support, AI-driven assessments, and performance analytics.
-
-## **Objective:**
-
-We aim to create a multifaceted solution that addresses the diverse needs of educators by offering resources, teaching strategies, and a supportive community, while also leveraging AI technology for automated assessment, detection of cheating and malpractice, tracking individual student performance, and providing insightful class analytics. Additionally, we seek to introduce a novel AI class monitoring system that evaluates student attentiveness based on posture and facial expressions, enabling efficient attendance management.
-
-## **Unique Approach:**
-
-What sets our platform apart is its integration of various features essential for effective teaching and classroom management, along with innovative AI capabilities. By combining resources, teaching methodologies, and community support, we foster a holistic environment for educators to enhance their teaching practices. Furthermore, our AI-driven assessment tools not only automate grading but also detect cheating and malpractice, ensuring academic integrity. The inclusion of student performance tracking and class analytics provides valuable insights for educators to tailor their teaching approaches and interventions. Additionally, our pioneering AI class monitoring system introduces a new dimension to classroom management by assessing student engagement and attendance through facial recognition and posture analysis.
-
+    st.markdown('''
 ## **Key Features:**
 
-1. **Resource Repository:** Access to a vast repository of educational resources.
-2. **Teaching Methodologies:** Guidance on effective teaching techniques and methodologies.
-3. **Teacher Community:** A supportive online community for collaboration and sharing experiences.
-4. **AI Course Outcomes and Answer Checking:** Automated assessment of course outcomes and answer checking using AI.
-5. **Cheating and Malpractice Detection:** AI-powered tools to detect cheating and malpractice.
-6. **Student Performance Tracking:** Monitoring and tracking individual student performance.
-7. **Class Performance Analytics:** Data analytics to analyze class performance trends and patterns.
-8. **AI Class Monitoring:** Innovative system to monitor student attentiveness and manage attendance using AI technology.
+- **📚 Resource Repository:** Access to a vast repository of educational resources.
+- **📝 Teaching Methodologies:** Guidance on effective teaching techniques and methodologies.
+- **👩‍🏫 Teacher Community:** A supportive online community for collaboration and sharing experiences.
+- **🤖 AI Course Outcomes and Answer Checking:** Automated assessment of course outcomes and answer checking using AI.
+- **🕵️‍♂️ Cheating and Malpractice Detection:** AI-powered tools to detect cheating and malpractice.
+- **📊 Student Performance Tracking:** Monitoring and tracking individual student performance.
+- **📈 Class Performance Analytics:** Data analytics to analyze class performance trends and patterns.
+- **👀 AI Class Monitoring:** Innovative system to monitor student attentiveness and manage attendance using AI technology.
+''')
 
-Through our platform, we aim to revolutionize the teaching experience by providing educators with a comprehensive toolkit for effective teaching, assessment, and classroom management, ultimately enhancing student learning outcomes.
-
-## **Checkpoints:**
-
-- [ ]  Documentation And Resources 
-- [ ]  give resources (bh) 
-- [ ]  methods to teach (bh) 
-- [ ]  teacher community (bh) 
-- [ ]  AI course outcomes and answer checking (bh) 
-- [ ]  cheating and malpractice detection (bh) 
-- [ ]  keep track of each student performance (bh) 
-- [ ]  data analytics of class performance. (bh)
-- [ ]  AI class monitoring (attentiveness) 
-
+    st.markdown('''
 ## **Get Started with OKULARY Today!**
 
-Join OKULARY today and take your teaching to the next level. Our platform is designed to empower educators with the tools and resources they need to excel in their profession. Whether you're a seasoned teacher looking for new teaching strategies or a new teacher seeking guidance, OKULARY has something for everyone. Sign up now and start your journey towards becoming a more effective and successful educator.''')
-elif selected == 'Plagerism Checker':
+Join **OKULARY** today and take your teaching to the next level. Our platform is designed to empower educators with the tools and resources they need to excel in their profession. Whether you're a seasoned teacher looking for new teaching strategies or a new teacher seeking guidance, **OKULARY** has something for everyone. Sign up now and start your journey towards becoming a more effective and successful educator.''')
+
+
+elif selected == 'Plagiarism Checker':
     import os
     import glob
     import PyPDF2
@@ -82,9 +61,9 @@ elif selected == 'Plagerism Checker':
     from difflib import SequenceMatcher
     
     # Color Scheme
-    PAGE_BG_COLOR = "#8CB9BD"
-    CONTENT_BG_COLOR = "#ECB159"
-    TEXT_COLOR = "#ECB159"
+    # PAGE_BG_COLOR = "#8CB9BD"
+    # CONTENT_BG_COLOR = "#ECB159"
+    # TEXT_COLOR = "#ECB159"
     
     def calculate_similarity(text1, text2):
         return SequenceMatcher(None, text1, text2).ratio()
@@ -220,32 +199,32 @@ elif selected == 'Plagerism Checker':
     def main():
         st.title("Plagiarism Detector")
     
-        # Custom CSS to apply background color and color scheme
-        st.markdown(f"""
-            <style>
-                body {{
-                    background-color: {PAGE_BG_COLOR};
-                    color: {TEXT_COLOR};
-                }}
-                .stApp {{
-                    background-color: {PAGE_BG_COLOR};
-                }}
-                .stContent {{
-                    background-color: {CONTENT_BG_COLOR};
-                }}
-                .stBlockContainer {{
-                    background-color: {CONTENT_BG_COLOR};
-                    padding: 10px;
-                    border-radius: 10px;
-                }}
-                .stButton:focus {{
-                    background-color: {CONTENT_BG_COLOR};
-                }}
-                .stButton:hover {{
-                    background-color: {CONTENT_BG_COLOR};
-                }}
-            </style>
-        """, unsafe_allow_html=True)
+        # # Custom CSS to apply background color and color scheme
+        # st.markdown(f"""
+        #     <style>
+        #         body {{
+        #             background-color: {PAGE_BG_COLOR};
+        #             color: {TEXT_COLOR};
+        #         }}
+        #         .stApp {{
+        #             background-color: {PAGE_BG_COLOR};
+        #         }}
+        #         .stContent {{
+        #             background-color: {CONTENT_BG_COLOR};
+        #         }}
+        #         .stBlockContainer {{
+        #             background-color: {CONTENT_BG_COLOR};
+        #             padding: 10px;
+        #             border-radius: 10px;
+        #         }}
+        #         .stButton:focus {{
+        #             background-color: {CONTENT_BG_COLOR};
+        #         }}
+        #         .stButton:hover {{
+        #             background-color: {CONTENT_BG_COLOR};
+        #         }}
+        #     </style>
+        # """, unsafe_allow_html=True)
     
         st.markdown("---")
     
@@ -484,7 +463,7 @@ elif selected == 'AI Course Outcomes and Answer Checking':
     import os
     
     # Set up OpenAI client
-    client = OpenAI(api_key="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")
+    client = OpenAI(api_key='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')
     
     # Function to read file contents
     def read_file_contents(filename):
@@ -548,4 +527,139 @@ elif selected == 'AI Course Outcomes and Answer Checking':
     # Run the app
     if __name__ == "__main__":
         main()
+elif selected == 'Teacher Resources':
+    import streamlit as st
+    import base64
+    import sqlite3
+    from openai import OpenAI
     
+    
+    conn = sqlite3.connect("your_database.db")
+    cursor = conn.cursor()
+    
+    def create_table_if_not_exists():
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS uploaded_pdfs (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                filename TEXT NOT NULL,
+                data BLOB NOT NULL
+            )
+        """)
+    
+    create_table_if_not_exists()
+    
+    def faq_section():
+        st.markdown("<h2 style='color: #ECB159;'>FAQ Section</h2>", unsafe_allow_html=True)
+        faq = {
+            "How can I effectively engage my students?": "Engaging students can involve various strategies such as using interactive activities, incorporating technology, and providing real-world examples.",
+            "What are some tips for classroom management?": "Establishing clear expectations, fostering a positive classroom environment, and implementing consistent discipline strategies can help with classroom management.",
+            "How can I differentiate instruction to meet the needs of all learners?": "Differentiation involves tailoring instruction to accommodate the diverse learning needs of students. This can include providing varied learning activities, offering flexible grouping, and adjusting the pace of instruction.",
+            "What are some ways to assess student learning?": "Assessment methods can include quizzes, tests, projects, presentations, and discussions. Formative assessment provides ongoing feedback to guide instruction, while summative assessment evaluates student learning at the end of a unit or course.",
+            "How can I support student social-emotional development?": "Supporting social-emotional development involves fostering a positive classroom climate, teaching social-emotional skills such as empathy and self-regulation, and providing opportunities for student reflection and expression."
+        }
+        for question, answer in faq.items():
+            with st.expander(question):
+                st.write(answer)
+    
+    def youtube_links_section():
+        st.markdown("<h2 style='color: #ECB159;'>YouTube Links for Teachers</h2>", unsafe_allow_html=True)
+        st.subheader("Useful YouTube Channels and Videos")
+        st.write("1. [Teaching Channel](https://www.youtube.com/user/TeachingChannel)", unsafe_allow_html=True)
+        st.write("2. [Edutopia](https://www.youtube.com/user/edutopia)", unsafe_allow_html=True)
+        st.write("3. [CrashCourse](https://www.youtube.com/user/crashcourse)", unsafe_allow_html=True)
+        st.write("4. [TED-Ed](https://www.youtube.com/user/TEDEducation)", unsafe_allow_html=True)
+        st.write("5. [Khan Academy](https://www.youtube.com/user/khanacademy)", unsafe_allow_html=True)
+        st.write("6. [National Geographic Education](https://www.youtube.com/user/NatGeoEducation)", unsafe_allow_html=True)
+        st.write("7. [PBS LearningMedia](https://www.youtube.com/user/PBSLearningMedia)", unsafe_allow_html=True)
+        st.write("8. [SciShow](https://www.youtube.com/user/scishow)", unsafe_allow_html=True)
+    
+    def chatbot_section():
+        client = OpenAI(api_key='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')
+        st.markdown("<h2 style='color: #ECB159;'>Teacher Chatbot</h2>", unsafe_allow_html=True)
+        st.subheader("Ask Questions and Get Answers")
+    
+        user_input = st.text_input("You:", "")
+        if st.button("Send"):
+            with st.spinner("Thinking..."):
+                response = client.chat.completions.create(
+                    model="gpt-4",
+                    messages=[
+                        {"role": "system", "content": "You are a helpful chat assistant"},
+                        {"role": "user", "content": user_input}
+                    ]
+                )
+                chatbot_response = response.choices[0].message.content
+                st.text_area("Chatbot:", chatbot_response)
+            st.write("Conversation History:")
+            st.write(f"User: {user_input}")
+            st.write(f"Chatbot: {chatbot_response}")
+    
+    def upload_pdf_section():
+        st.markdown("<h2 style='color: #ECB159;'>Upload PDF</h2>", unsafe_allow_html=True)
+        uploaded_files = st.file_uploader("Upload PDF", type=["pdf"], accept_multiple_files=True)
+        uploaded_pdfs = {}
+    
+        if uploaded_files is not None:
+            for uploaded_file in uploaded_files:
+                pdf_data = uploaded_file.getvalue()
+                filename = uploaded_file.name
+                cursor.execute("INSERT INTO uploaded_pdfs (filename, data) VALUES (?, ?)", (filename, pdf_data))
+                conn.commit()
+    
+                uploaded_pdfs[filename] = pdf_data
+    
+        return uploaded_pdfs
+    
+    def display_pdf_from_database(pdf_id):
+        cursor.execute("SELECT filename, data FROM uploaded_pdfs WHERE id = ?", (pdf_id,))
+        filename, pdf_data = cursor.fetchone()
+    
+        st.markdown(f"<h3 style='color: #ECB159;'>{filename}</h3>", unsafe_allow_html=True)
+        st.markdown(f'<embed src="data:application/pdf;base64,{base64.b64encode(pdf_data).decode()}" width="300" height="300" type="application/pdf">', unsafe_allow_html=True)
+    
+    def useful_docs_section(uploaded_pdfs):
+        st.markdown("<h2 style='color: #ECB159;'>Useful Documents for Teachers</h2>", unsafe_allow_html=True)
+    
+        cursor.execute("SELECT id, filename FROM uploaded_pdfs")
+        for pdf_id, filename in cursor.fetchall():
+            
+            display_pdf_from_database(pdf_id)
+    
+    def main():
+        st.title("Teacher Resources Page")
+        st.markdown(
+            """
+            <style>
+                body {
+                    background-color: #8CB9BD;
+                    color: #ECB159;
+                    font-family: Arial, sans-serif;
+                }
+                h1, h2, h3, h4, h5, h6 {
+                    color: #ECB159;
+                }
+                .stButton:focus {
+                    background-color: #B67352;
+                    color: #ffffff;
+                }
+                .stButton:hover {
+                    background-color: #B67352;
+                    color: #ffffff;
+                }
+                .st-expander-content {
+                    background-color: #ECB159;
+                }
+            </style>
+            """,
+            unsafe_allow_html=True
+        )
+        faq_section()
+        youtube_links_section()
+        chatbot_section()
+        uploaded_pdfs = upload_pdf_section()
+        useful_docs_section(uploaded_pdfs)
+    
+        conn.close() 
+    
+    if __name__ == "__main__":
+        main()
