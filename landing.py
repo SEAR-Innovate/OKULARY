@@ -484,7 +484,7 @@ elif selected == 'AI Course Outcomes and Answer Checking':
     import os
     
     # Set up OpenAI client
-    client = OpenAI(api_key="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")
+    client = OpenAI(api_key="YOUR API KEY")
     
     # Function to read file contents
     def read_file_contents(filename):

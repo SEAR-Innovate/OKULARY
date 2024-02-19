@@ -44,7 +44,7 @@ def youtube_links_section():
     st.write("8. [SciShow](https://www.youtube.com/user/scishow)", unsafe_allow_html=True)
 
 def chatbot_section():
-    client = OpenAI(api_key='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')
+    client = OpenAI(api_key='YOUR API KEY')
     st.markdown("<h2 style='color: #ECB159;'>Teacher Chatbot</h2>", unsafe_allow_html=True)
     st.subheader("Ask Questions and Get Answers")
 
