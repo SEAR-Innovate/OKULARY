@@ -1,5 +1,15 @@
 # OKULARY: Empowering Educators with Innovative Solutions
-[**Offlicial Docs - Give it a read <3**](https://github.com/SEAR-Innovate/OKULARY/files/14325957/O.pdf)<br>
+[**Offlicial Docs - Give it a read <3**](https://github.com/SEAR-Innovate/OKULARY/files/14325957/O.pdf)
+
+
+## Made By:
+- [Rishit Chugh](https://github.com/R-C101)
+- [Sakshi Sawarkar](https://github.com/sakshi-sawarkar)
+- [Anshika Bhardwaj](https://github.com/AnshikaSwirl)
+- [Eeman Majumder](https://github.com/Eeman1113)
+
+
+
 Welcome to **OKULARY**, the ultimate teacher helper website designed to revolutionize the teaching experience. Our platform is built to address the diverse needs of educators by providing a comprehensive suite of resources, teaching methodologies, community support, AI-driven assessments, and performance analytics.
 
 🎯 Our aim is to develop an all-encompassing educational platform tailored for teachers, providing comprehensive resources, teaching methodologies, community support, AI-driven assessments, and performance analytics.
